@@ -1,0 +1,152 @@
+{
+  "name": {
+    "label": null,
+    "color": 16777215
+  },
+  "bricks": [
+    {
+      "position": {
+        "x": 6,
+        "y": 2
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 7,
+        "y": 2
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 8,
+        "y": 2
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 9,
+        "y": 2
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 10,
+        "y": 2
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 11,
+        "y": 2
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 12,
+        "y": 2
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 13,
+        "y": 2
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 14,
+        "y": 2
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 3
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 7,
+        "y": 3
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 8,
+        "y": 3
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 9,
+        "y": 3
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 10,
+        "y": 3
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 11,
+        "y": 3
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 12,
+        "y": 3
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 13,
+        "y": 3
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    },
+    {
+      "position": {
+        "x": 14,
+        "y": 3
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": {
+    "label": null,
+    "color": 16777215
+  },
+  "bricks": [
+    {
+      "position": {
+        "x": 9,
+        "y": 2
+      },
+      "textureName": "brick-grey",
+      "score": 10
+    }
+  ]
+}
