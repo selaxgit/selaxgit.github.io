@@ -1,4 +1,12 @@
-[{
-	"name": "Большой Салым",
-	"file": "big-salym.json"
-}]
+[
+  {
+    "name": "Большой Салым (полилинии)",
+    "file": "big-salym.json",
+    "visible": false
+  },
+  {
+    "name": "Большой Салым (точки)",
+    "file": "big-salym-points.json",
+    "visible": true
+  }
+]
