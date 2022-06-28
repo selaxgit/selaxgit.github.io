@@ -1,0 +1,390 @@
+{
+  "name": "Админка: Коэффициент",
+  "rows": [
+    {
+      "children": [
+        {
+          "type": "CONTROL",
+          "controlType": "CHECKBOX",
+          "label": "Активен для внешних систем",
+          "autofill": true,
+          "controlProperties": {
+            "clearButton": true,
+            "dataSource": null,
+            "bindDTO": "isActive",
+            "usePrefix": false,
+            "prefixIcon": null,
+            "prefixHint": null,
+            "useSuffix": false,
+            "suffixIcon": null,
+            "suffixHint": null,
+            "decimal": null,
+            "maskValue": null
+          },
+          "width": null,
+          "widthUnit": "pixels"
+        },
+        {
+          "type": "CONTROL",
+          "controlType": "BUTTON",
+          "label": "Маппинг",
+          "autofill": false,
+          "controlProperties": {
+            "clearButton": true,
+            "readonly": false,
+            "dataSource": null,
+            "bindDTO": null,
+            "usePrefix": false,
+            "prefixIcon": null,
+            "prefixHint": null,
+            "useSuffix": false,
+            "suffixIcon": null,
+            "suffixHint": null,
+            "decimal": null,
+            "maskValue": null
+          },
+          "width": null,
+          "widthUnit": "pixels"
+        },
+        {
+          "type": "CONTROL",
+          "controlType": "BUTTON",
+          "label": "Тарифные факторы",
+          "autofill": false,
+          "controlProperties": {
+            "clearButton": true,
+            "readonly": false,
+            "dataSource": null,
+            "bindDTO": null,
+            "usePrefix": false,
+            "prefixIcon": null,
+            "prefixHint": null,
+            "useSuffix": false,
+            "suffixIcon": null,
+            "suffixHint": null,
+            "decimal": null,
+            "maskValue": null
+          },
+          "width": null,
+          "widthUnit": "pixels"
+        }
+      ]
+    },
+    {
+      "children": [
+        {
+          "type": "CONTROL",
+          "controlType": "DATEPICKER",
+          "label": "Дата начала действия",
+          "autofill": false,
+          "controlProperties": {
+            "clearButton": false,
+            "dataSource": null,
+            "bindDTO": "fromDate",
+            "usePrefix": false,
+            "prefixIcon": null,
+            "prefixHint": null,
+            "useSuffix": false,
+            "suffixIcon": null,
+            "suffixHint": null,
+            "decimal": null,
+            "maskValue": null
+          },
+          "width": null,
+          "widthUnit": "pixels"
+        },
+        {
+          "type": "CONTROL",
+          "controlType": "TEXT",
+          "label": "Наименование",
+          "autofill": true,
+          "controlProperties": {
+            "clearButton": true,
+            "dataSource": null,
+            "bindDTO": "name",
+            "usePrefix": false,
+            "prefixIcon": null,
+            "prefixHint": null,
+            "useSuffix": false,
+            "suffixIcon": null,
+            "suffixHint": null,
+            "decimal": null,
+            "maskValue": null
+          },
+          "width": null,
+          "widthUnit": "pixels"
+        }
+      ]
+    },
+    {
+      "children": [
+        {
+          "type": "CONTROL",
+          "controlType": "TEXT",
+          "label": "Описание",
+          "autofill": true,
+          "controlProperties": {
+            "clearButton": true,
+            "dataSource": null,
+            "bindDTO": "description",
+            "usePrefix": false,
+            "prefixIcon": null,
+            "prefixHint": null,
+            "useSuffix": false,
+            "suffixIcon": null,
+            "suffixHint": null,
+            "decimal": null,
+            "maskValue": null
+          },
+          "width": null,
+          "widthUnit": "pixels"
+        }
+      ]
+    },
+    {
+      "children": [
+        {
+          "type": "CONTROL",
+          "controlType": "SELECT",
+          "label": "Тип коэффициента",
+          "autofill": true,
+          "controlProperties": {
+            "clearButton": true,
+            "readonly": false,
+            "callMethod": null,
+            "dataSource": {
+              "apiUrl": "ADM_API",
+              "methodHttp": "GET",
+              "methodApi": "reference/common/type-coefficient/search",
+              "paramsList": [
+                {
+                  "name": "isactive",
+                  "value": "true"
+                },
+                {
+                  "name": "actualdate",
+                  "value": "$fromDate"
+                }
+              ],
+              "responseBind": {
+                "root": "entities",
+                "value": "valueStr",
+                "title": "name"
+              }
+            },
+            "bindDTO": "type",
+            "usePrefix": false,
+            "prefixIcon": null,
+            "prefixHint": null,
+            "useSuffix": false,
+            "suffixIcon": null,
+            "suffixHint": null,
+            "decimal": null,
+            "maskValue": null
+          },
+          "width": null,
+          "widthUnit": "pixels"
+        },
+        {
+          "type": "CONTROL",
+          "controlType": "SELECT",
+          "label": "Подтип коэффициента",
+          "autofill": true,
+          "controlProperties": {
+            "clearButton": true,
+            "readonly": false,
+            "callMethod": null,
+            "dataSource": {
+              "apiUrl": "ADM_API",
+              "methodHttp": "GET",
+              "methodApi": "reference/product/coefficient-subtype/search",
+              "paramsList": [
+                {
+                  "name": "isactive",
+                  "value": "true"
+                },
+                {
+                  "name": "actualdate",
+                  "value": "$fromDate"
+                }
+              ],
+              "responseBind": {
+                "root": "entities",
+                "value": "valueStr",
+                "title": "name"
+              }
+            },
+            "bindDTO": "subTypeId",
+            "usePrefix": false,
+            "prefixIcon": null,
+            "prefixHint": null,
+            "useSuffix": false,
+            "suffixIcon": null,
+            "suffixHint": null,
+            "decimal": null,
+            "maskValue": null
+          },
+          "width": null,
+          "widthUnit": "pixels"
+        },
+        {
+          "type": "CONTROL",
+          "controlType": "SELECT",
+          "label": "Тип провайдера",
+          "autofill": true,
+          "controlProperties": {
+            "clearButton": true,
+            "dataSource": null,
+            "bindDTO": "providerType",
+            "usePrefix": false,
+            "prefixIcon": null,
+            "prefixHint": null,
+            "useSuffix": false,
+            "suffixIcon": null,
+            "suffixHint": null,
+            "decimal": null,
+            "maskValue": null
+          },
+          "width": null,
+          "widthUnit": "pixels"
+        },
+        {
+          "type": "CONTROL",
+          "controlType": "TEXT",
+          "label": "PICKER: Формула",
+          "autofill": true,
+          "controlProperties": {
+            "clearButton": true,
+            "dataSource": null,
+            "bindDTO": "formula\t",
+            "usePrefix": false,
+            "prefixIcon": null,
+            "prefixHint": null,
+            "useSuffix": false,
+            "suffixIcon": null,
+            "suffixHint": null,
+            "decimal": null,
+            "maskValue": null
+          },
+          "width": null,
+          "widthUnit": "pixels"
+        }
+      ]
+    },
+    {
+      "children": [
+        {
+          "type": "CONTROL",
+          "controlType": "SELECT",
+          "label": "Вид коэффициента",
+          "autofill": true,
+          "controlProperties": {
+            "clearButton": true,
+            "readonly": false,
+            "callMethod": null,
+            "dataSource": {
+              "apiUrl": "ADM_API",
+              "methodHttp": "GET",
+              "methodApi": "reference/common/kind-coefficient/search",
+              "paramsList": [
+                {
+                  "name": "isActive",
+                  "value": "true"
+                },
+                {
+                  "name": "actualDate",
+                  "value": "$fromDate"
+                }
+              ],
+              "responseBind": {
+                "root": "entities",
+                "value": "valueStr",
+                "title": "name"
+              }
+            },
+            "bindDTO": "kindId",
+            "usePrefix": false,
+            "prefixIcon": null,
+            "prefixHint": null,
+            "useSuffix": false,
+            "suffixIcon": null,
+            "suffixHint": null,
+            "decimal": null,
+            "maskValue": null
+          },
+          "width": null,
+          "widthUnit": "pixels"
+        },
+        {
+          "type": "CONTROL",
+          "controlType": "SELECT",
+          "label": "Вид страхования",
+          "autofill": true,
+          "controlProperties": {
+            "clearButton": true,
+            "readonly": false,
+            "callMethod": null,
+            "dataSource": {
+              "apiUrl": "ADM_API",
+              "methodHttp": "GET",
+              "methodApi": "reference/common/insurance-type/search",
+              "paramsList": [
+                {
+                  "name": "isActive",
+                  "value": "true"
+                },
+                {
+                  "name": "actualDate",
+                  "value": "$fromDate"
+                }
+              ],
+              "responseBind": {
+                "root": "entities",
+                "value": "valueStr",
+                "title": "name"
+              }
+            },
+            "bindDTO": "insuranceType",
+            "usePrefix": false,
+            "prefixIcon": null,
+            "prefixHint": null,
+            "useSuffix": false,
+            "suffixIcon": null,
+            "suffixHint": null,
+            "decimal": null,
+            "maskValue": null
+          },
+          "width": null,
+          "widthUnit": "pixels"
+        }
+      ]
+    },
+    {
+      "children": [
+        {
+          "type": "CONTROL",
+          "controlType": "TEXT",
+          "label": "Примечание",
+          "autofill": true,
+          "controlProperties": {
+            "clearButton": true,
+            "readonly": false,
+            "callMethod": null,
+            "dataSource": null,
+            "bindDTO": "remark",
+            "usePrefix": false,
+            "prefixIcon": null,
+            "prefixHint": null,
+            "useSuffix": false,
+            "suffixIcon": null,
+            "suffixHint": null,
+            "decimal": null,
+            "maskValue": null
+          },
+          "width": null,
+          "widthUnit": "pixels"
+        }
+      ]
+    }
+  ]
+}

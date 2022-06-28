@@ -1,0 +1,1148 @@
+{
+  "name": "Котировка: Комфорт Дом+",
+  "rows": [
+    {
+      "children": [
+        {
+          "type": "PANEL",
+          "label": "Условия страхования",
+          "autofill": true,
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "CONTROL",
+                  "controlType": "SELECT",
+                  "label": "История страхования",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": {
+                      "apiUrl": "KIAS_API",
+                      "methodHttp": "POST",
+                      "methodApi": "custom/getAddAttrQuery",
+                      "paramsList": [
+                        {
+                          "name": "ClassISN",
+                          "value": "220575"
+                        },
+                        {
+                          "name": "AttrISN",
+                          "value": "868391"
+                        },
+                        {
+                          "name": "ObjISN",
+                          "value": "$AgrCalc[0].ISN"
+                        }
+                      ],
+                      "responseBind": {
+                        "root": null,
+                        "value": "ISN",
+                        "title": "FULLNAME"
+                      }
+                    },
+                    "bindDTO": "CalcParams[ATTRISN=868391].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "percent",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "TEXT",
+                  "label": "Номер предыдущего договора страхования",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=868361].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": 330,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "SELECT",
+                  "label": "Данные предыдущего договора страхования",
+                  "autofill": true,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": {
+                      "apiUrl": "KIAS_API",
+                      "methodHttp": "POST",
+                      "methodApi": "custom/getAddAttrQuery",
+                      "paramsList": [
+                        {
+                          "name": "ClassISN",
+                          "value": "220575"
+                        },
+                        {
+                          "name": "AttrISN",
+                          "value": "868371"
+                        },
+                        {
+                          "name": "ObjISN",
+                          "value": "$AgrCalc[0].ISN"
+                        }
+                      ],
+                      "responseBind": {
+                        "root": null,
+                        "value": "ISN",
+                        "title": "FULLNAME"
+                      }
+                    },
+                    "bindDTO": "CalcParams[ATTRISN=868371].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                }
+              ],
+              "idx": 2
+            },
+            {
+              "children": [
+                {
+                  "type": "CONTROL",
+                  "controlType": "NUMBER",
+                  "label": "Площадь \"Жилой дом\"",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=819071].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "SELECT",
+                  "label": "Тип стен",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": {
+                      "apiUrl": "KIAS_API",
+                      "methodHttp": "POST",
+                      "methodApi": "custom/getAddAttrQuery",
+                      "paramsList": [
+                        {
+                          "name": "ClassISN",
+                          "value": "220575"
+                        },
+                        {
+                          "name": "AttrISN",
+                          "value": "819131"
+                        },
+                        {
+                          "name": "ObjISN",
+                          "value": "$AgrCalc[0].ISN"
+                        }
+                      ],
+                      "responseBind": {
+                        "root": null,
+                        "value": "ISN",
+                        "title": "FULLNAME"
+                      }
+                    },
+                    "bindDTO": "CalcParams[ATTRISN=819131].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "SELECT",
+                  "label": "Страховая сумма \"Жилой дом\"",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": {
+                      "apiUrl": "KIAS_API",
+                      "methodHttp": "POST",
+                      "methodApi": "custom/getAddAttrQuery",
+                      "paramsList": [
+                        {
+                          "name": "ClassISN",
+                          "value": "220575"
+                        },
+                        {
+                          "name": "AttrISN",
+                          "value": "818971"
+                        },
+                        {
+                          "name": "ObjISN",
+                          "value": "$AgrCalc[0].ISN"
+                        }
+                      ],
+                      "responseBind": {
+                        "root": null,
+                        "value": "ISN",
+                        "title": "FULLNAME"
+                      }
+                    },
+                    "bindDTO": "CalcParams[ATTRISN=818971].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": 250,
+                  "widthUnit": "pixels",
+                  "visible": true
+                }
+              ],
+              "idx": 3
+            },
+            {
+              "children": [
+                {
+                  "type": "CONTROL",
+                  "controlType": "SELECT",
+                  "label": "Страховая сумма \"Движимое имущество\"",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": {
+                      "apiUrl": "KIAS_API",
+                      "methodHttp": "POST",
+                      "methodApi": "custom/getAddAttrQuery",
+                      "paramsList": [
+                        {
+                          "name": "ClassISN",
+                          "value": "220575"
+                        },
+                        {
+                          "name": "AttrISN",
+                          "value": "818961"
+                        },
+                        {
+                          "name": "ObjISN",
+                          "value": "$AgrCalc[0].ISN"
+                        }
+                      ],
+                      "responseBind": {
+                        "root": null,
+                        "value": "ISN",
+                        "title": "FULLNAME"
+                      }
+                    },
+                    "bindDTO": "CalcParams[ATTRISN=818961].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": 330,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "SELECT",
+                  "label": "Страховая сумма \"Гражданская ответственность\"",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": {
+                      "apiUrl": "KIAS_API",
+                      "methodHttp": "POST",
+                      "methodApi": "custom/getAddAttrQuery",
+                      "paramsList": [
+                        {
+                          "name": "ClassISN",
+                          "value": "220575"
+                        },
+                        {
+                          "name": "AttrISN",
+                          "value": "818951"
+                        },
+                        {
+                          "name": "ObjISN",
+                          "value": "$AgrCalc[0].ISN"
+                        }
+                      ],
+                      "responseBind": {
+                        "root": null,
+                        "value": "ISN",
+                        "title": "FULLNAME"
+                      }
+                    },
+                    "bindDTO": "CalcParams[ATTRISN=818951].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": 370,
+                  "widthUnit": "pixels",
+                  "visible": true
+                }
+              ],
+              "idx": 4
+            },
+            {
+              "children": [
+                {
+                  "type": "CONTROL",
+                  "controlType": "NUMBER",
+                  "label": "Площадь \"Баня\"",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=819081].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "SELECT",
+                  "label": "Страховая сумма \"Баня\"",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": {
+                      "apiUrl": "KIAS_API",
+                      "methodHttp": "POST",
+                      "methodApi": "custom/getAddAttrQuery",
+                      "paramsList": [
+                        {
+                          "name": "ClassISN",
+                          "value": "220575"
+                        },
+                        {
+                          "name": "AttrISN",
+                          "value": "818941"
+                        },
+                        {
+                          "name": "ObjISN",
+                          "value": "$AgrCalc[0].ISN"
+                        }
+                      ],
+                      "responseBind": {
+                        "root": null,
+                        "value": "ISN",
+                        "title": "FULLNAME"
+                      }
+                    },
+                    "bindDTO": "CalcParams[ATTRISN=818941].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                }
+              ],
+              "idx": 5
+            },
+            {
+              "children": [
+                {
+                  "type": "CONTROL",
+                  "controlType": "NUMBER",
+                  "label": "Площадь \"Хозяйственная постройка №1\"",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=819091].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "SELECT",
+                  "label": "Страховая сумма \"Хозяйственная постройка №1\"",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": {
+                      "apiUrl": "KIAS_API",
+                      "methodHttp": "POST",
+                      "methodApi": "custom/getAddAttrQuery",
+                      "paramsList": [
+                        {
+                          "name": "ClassISN",
+                          "value": "220575"
+                        },
+                        {
+                          "name": "AttrISN",
+                          "value": "818981"
+                        },
+                        {
+                          "name": "ObjISN",
+                          "value": "$AgrCalc[0].ISN"
+                        }
+                      ],
+                      "responseBind": {
+                        "root": null,
+                        "value": "ISN",
+                        "title": "FULLNAME"
+                      }
+                    },
+                    "bindDTO": "CalcParams[ATTRISN=818981].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                }
+              ],
+              "idx": 6
+            },
+            {
+              "children": [
+                {
+                  "type": "CONTROL",
+                  "controlType": "NUMBER",
+                  "label": "Площадь \"Хозяйственная постройка №2\"",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=819101].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "SELECT",
+                  "label": "Страховая сумма \"Хозяйственная постройка №2\"",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": {
+                      "apiUrl": "KIAS_API",
+                      "methodHttp": "POST",
+                      "methodApi": "custom/getAddAttrQuery",
+                      "paramsList": [
+                        {
+                          "name": "ClassISN",
+                          "value": "220575"
+                        },
+                        {
+                          "name": "AttrISN",
+                          "value": "818991"
+                        },
+                        {
+                          "name": "ObjISN",
+                          "value": "$AgrCalc[0].ISN"
+                        }
+                      ],
+                      "responseBind": {
+                        "root": null,
+                        "value": "ISN",
+                        "title": "FULLNAME"
+                      }
+                    },
+                    "bindDTO": "CalcParams[ATTRISN=818991].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                }
+              ],
+              "idx": 7
+            },
+            {
+              "children": [
+                {
+                  "type": "CONTROL",
+                  "controlType": "NUMBER",
+                  "label": "Площадь \"Хозяйственная постройка №3\"",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=819111].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "SELECT",
+                  "label": "Страховая сумма \"Хозяйственная постройка №3\"",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": {
+                      "apiUrl": "KIAS_API",
+                      "methodHttp": "POST",
+                      "methodApi": "custom/getAddAttrQuery",
+                      "paramsList": [
+                        {
+                          "name": "ClassISN",
+                          "value": "220575"
+                        },
+                        {
+                          "name": "AttrISN",
+                          "value": "819001"
+                        },
+                        {
+                          "name": "ObjISN",
+                          "value": "$AgrCalc[0].ISN"
+                        }
+                      ],
+                      "responseBind": {
+                        "root": null,
+                        "value": "ISN",
+                        "title": "FULLNAME"
+                      }
+                    },
+                    "bindDTO": "CalcParams[ATTRISN=819001].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                }
+              ],
+              "idx": 8
+            },
+            {
+              "children": [
+                {
+                  "type": "CONTROL",
+                  "controlType": "NUMBER",
+                  "label": "Коэффициент продавца",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=819121].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "SELECT",
+                  "label": "Акция",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": {
+                      "apiUrl": "KIAS_API",
+                      "methodHttp": "POST",
+                      "methodApi": "custom/getAddAttrQuery",
+                      "paramsList": [
+                        {
+                          "name": "ClassISN",
+                          "value": "220575"
+                        },
+                        {
+                          "name": "AttrISN",
+                          "value": "979781"
+                        },
+                        {
+                          "name": "ObjISN",
+                          "value": "$AgrCalc[0].ISN"
+                        }
+                      ],
+                      "responseBind": {
+                        "root": null,
+                        "value": "ISN",
+                        "title": "FULLNAME"
+                      }
+                    },
+                    "bindDTO": "CalcParams[ATTRISN=979781].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "SELECT",
+                  "label": "Скидка за счет КВ",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": {
+                      "apiUrl": "KIAS_API",
+                      "methodHttp": "POST",
+                      "methodApi": "custom/getAddAttrQuery",
+                      "paramsList": [
+                        {
+                          "name": "ClassISN",
+                          "value": "220575"
+                        },
+                        {
+                          "name": "AttrISN",
+                          "value": "976591"
+                        },
+                        {
+                          "name": "ObjISN",
+                          "value": "$AgrCalc[0].ISN"
+                        }
+                      ],
+                      "responseBind": {
+                        "root": null,
+                        "value": "ISN",
+                        "title": "FULLNAME"
+                      }
+                    },
+                    "bindDTO": "CalcParams[ATTRISN=976591].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "NUMBER",
+                  "label": "Необходимая премия",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=869411].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                }
+              ],
+              "idx": 9
+            },
+            {
+              "children": [
+                {
+                  "type": "CONTROL",
+                  "controlType": "TEXT",
+                  "label": "Адрес объекта страхования",
+                  "autofill": true,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=856011].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                }
+              ],
+              "idx": 10
+            }
+          ],
+          "idx": 1
+        }
+      ],
+      "idx": 1
+    },
+    {
+      "children": [
+        {
+          "type": "PANEL",
+          "label": "Информация о страхователе",
+          "autofill": true,
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "CONTROL",
+                  "controlType": "TEXT",
+                  "label": "Фамилия",
+                  "autofill": true,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=822491].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "TEXT",
+                  "label": "Имя",
+                  "autofill": true,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=822501].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "TEXT",
+                  "label": "Отчество",
+                  "autofill": true,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=822511].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "DATEPICKER",
+                  "label": "Дата рождения",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=822521].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                }
+              ],
+              "idx": 12
+            },
+            {
+              "children": [
+                {
+                  "type": "CONTROL",
+                  "controlType": "TEXT",
+                  "label": "Место рождения",
+                  "autofill": true,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=822651].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                }
+              ],
+              "idx": 13
+            },
+            {
+              "children": [
+                {
+                  "type": "CONTROL",
+                  "controlType": "SELECT",
+                  "label": "Тип документа удостоверяющего личность",
+                  "autofill": true,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": {
+                      "apiUrl": "KIAS_API",
+                      "methodHttp": "POST",
+                      "methodApi": "custom/getAddAttrQuery",
+                      "paramsList": [
+                        {
+                          "name": "ClassISN",
+                          "value": "220575"
+                        },
+                        {
+                          "name": "AttrISN",
+                          "value": "822531"
+                        },
+                        {
+                          "name": "ObjISN",
+                          "value": "$AgrCalc[0].ISN"
+                        }
+                      ],
+                      "responseBind": {
+                        "root": null,
+                        "value": "ISN",
+                        "title": "FULLNAME"
+                      }
+                    },
+                    "bindDTO": "CalcParams[ATTRISN=822531].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "TEXT",
+                  "label": "Серия",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=822541].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "TEXT",
+                  "label": "Номер",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=822551].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "DATEPICKER",
+                  "label": "Дата выдачи",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=822561].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                }
+              ],
+              "idx": 14
+            },
+            {
+              "children": [
+                {
+                  "type": "CONTROL",
+                  "controlType": "TEXT",
+                  "label": "Кем выдан",
+                  "autofill": true,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=822571].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "TEXT",
+                  "label": "Код подразделения",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=822581].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                }
+              ],
+              "idx": 15
+            },
+            {
+              "children": [
+                {
+                  "type": "CONTROL",
+                  "controlType": "TEXT",
+                  "label": "Номер телефона",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=822611].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                },
+                {
+                  "type": "CONTROL",
+                  "controlType": "TEXT",
+                  "label": "Email",
+                  "autofill": false,
+                  "controlProperties": {
+                    "clearButton": true,
+                    "readonly": false,
+                    "callMethod": null,
+                    "dataSource": null,
+                    "bindDTO": "CalcParams[ATTRISN=822621].VAL",
+                    "prefixIcon": null,
+                    "prefixHint": null,
+                    "suffixIcon": null,
+                    "suffixHint": null,
+                    "decimal": null,
+                    "maskValue": null
+                  },
+                  "width": null,
+                  "widthUnit": "pixels",
+                  "visible": true
+                }
+              ],
+              "idx": 16
+            }
+          ],
+          "idx": 2
+        }
+      ],
+      "idx": 11
+    }
+  ]
+}

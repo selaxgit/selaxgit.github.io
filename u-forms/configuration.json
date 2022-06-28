@@ -1,0 +1,5 @@
+{
+  "kiasApiUrl": "https://pro-dev.ugsk.ru/develop/kias/api",
+  "admApiUrl": "https://pro-dev.ugsk.ru/demo/ugsk-adminapi-api",
+  "admAuthUrl": "https://pro-dev.ugsk.ru/auth/ugsk-auth-api"
+}

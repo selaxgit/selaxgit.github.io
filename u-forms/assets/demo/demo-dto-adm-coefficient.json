@@ -1,0 +1,5 @@
+{
+  "name": "Админка: Коэффициент",
+  "type": "custom",
+  "dto": "{\"id\": 55,\"description\": \"Возраст ТС\",\"remark\": null,\"formula\": \"Год(Параметры.ДатаРасчета) - Параметры.ГодВыпускаТС\",\"providerType\": null,\"subTypeId\": null,\"factors\": null,\"type\": \"Calc\",\"kindId\": 1,\"insuranceType\": \"SpecialVehicles\",\"name\": \"ВозрастТС\",\"fromDate\": \"2022-01-14T00:00:00\",\"isActive\": true}"
+}
