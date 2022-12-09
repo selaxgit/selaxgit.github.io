@@ -1,0 +1,310 @@
+[
+  {
+    "type": "spider",
+    "score": 10,
+    "behavior": [
+      {
+        "type": "set-coords",
+        "value": { "x": 0, "y": -50 }
+      },
+      {
+        "type": "fly-bezier",
+        "value": {
+          "duration": 5000,
+          "points": [
+            {
+              "x": 566.5,
+              "y": 10
+            },
+            {
+              "x": 1689.5,
+              "y": 425
+            },
+            {
+              "x": 566.5,
+              "y": 840
+            },
+            {
+              "x": 566.5,
+              "y": 100
+            }
+          ]
+        }
+      },
+      {
+        "type": "set-coords",
+        "value": { "x": 598.5, "y": 100 }
+      },
+      {
+        "type": "delay",
+        "value": 3000
+      },
+      {
+        "type": "move",
+        "value": [
+          {
+            "velocity": { "x": 1, "y": 0 },
+            "duration": 1000
+          }
+        ]
+      },
+      {
+        "type": "move",
+        "repeat": 10,
+        "value": [
+          {
+            "velocity": { "x": -1, "y": 0 },
+            "duration": 2000
+          },
+          {
+            "velocity": { "x": 1, "y": 0 },
+            "duration": 2000
+          }
+        ]
+      },
+      {
+        "type": "move",
+        "value": [
+          {
+            "velocity": { "x": -1, "y": 0 },
+            "duration": 1000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "spider",
+    "score": 10,
+    "behavior": [
+      {
+        "type": "set-coords",
+        "value": { "x": 0, "y": -50 }
+      },
+      {
+        "type": "delay",
+        "value": 500
+      },
+      {
+        "type": "fly-bezier",
+        "value": {
+          "duration": 5000,
+          "points": [
+            {
+              "x": 566.5,
+              "y": 10
+            },
+            {
+              "x": 1688.5,
+              "y": 425
+            },
+            {
+              "x": 566.5,
+              "y": 840
+            },
+            {
+              "x": 566.5,
+              "y": 100
+            }
+          ]
+        }
+      },
+      {
+        "type": "set-coords",
+        "value": { "x": 534.5, "y": 100 }
+      },
+      {
+        "type": "delay",
+        "value": 2500
+      },
+      {
+        "type": "move",
+        "value": [
+          {
+            "velocity": { "x": 1, "y": 0 },
+            "duration": 1000
+          }
+        ]
+      },
+      {
+        "type": "move",
+        "repeat": 10,
+        "value": [
+          {
+            "velocity": { "x": -1, "y": 0 },
+            "duration": 2000
+          },
+          {
+            "velocity": { "x": 1, "y": 0 },
+            "duration": 2000
+          }
+        ]
+      },
+      {
+        "type": "move",
+        "value": [
+          {
+            "velocity": { "x": -1, "y": 0 },
+            "duration": 1000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "spider",
+    "score": 10,
+    "behavior": [
+      {
+        "type": "set-coords",
+        "value": { "x": 0, "y": -50 }
+      },
+      {
+        "type": "delay",
+        "value": 1000
+      },
+      {
+        "type": "fly-bezier",
+        "value": {
+          "duration": 5000,
+          "points": [
+            {
+              "x": 566.5,
+              "y": 10
+            },
+            {
+              "x": 1688.5,
+              "y": 425
+            },
+            {
+              "x": 566.5,
+              "y": 840
+            },
+            {
+              "x": 566.5,
+              "y": 100
+            }
+          ]
+        }
+      },
+      {
+        "type": "set-coords",
+        "value": { "x": 640.5, "y": 100 }
+      },
+      {
+        "type": "delay",
+        "value": 2000
+      },
+      {
+        "type": "move",
+        "value": [
+          {
+            "velocity": { "x": 1, "y": 0 },
+            "duration": 1000
+          }
+        ]
+      },
+      {
+        "type": "move",
+        "repeat": 10,
+        "value": [
+          {
+            "velocity": { "x": -1, "y": 0 },
+            "duration": 2000
+          },
+          {
+            "velocity": { "x": 1, "y": 0 },
+            "duration": 2000
+          }
+        ]
+      },
+      {
+        "type": "move",
+        "value": [
+          {
+            "velocity": { "x": -1, "y": 0 },
+            "duration": 1000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "spider",
+    "score": 10,
+    "behavior": [
+      {
+        "type": "set-coords",
+        "value": { "x": 0, "y": -50 }
+      },
+      {
+        "type": "delay",
+        "value": 1500
+      },
+      {
+        "type": "fly-bezier",
+        "value": {
+          "duration": 5000,
+          "points": [
+            {
+              "x": 566.5,
+              "y": 10
+            },
+            {
+              "x": 1688.5,
+              "y": 425
+            },
+            {
+              "x": 566.5,
+              "y": 840
+            },
+            {
+              "x": 566.5,
+              "y": 100
+            }
+          ]
+        }
+      },
+      {
+        "type": "set-coords",
+        "value": { "x": 492.5, "y": 100 }
+      },
+      {
+        "type": "delay",
+        "value": 1500
+      },
+      {
+        "type": "move",
+        "value": [
+          {
+            "velocity": { "x": 1, "y": 0 },
+            "duration": 1000
+          }
+        ]
+      },
+      {
+        "type": "move",
+        "repeat": 10,
+        "value": [
+          {
+            "velocity": { "x": -1, "y": 0 },
+            "duration": 2000
+          },
+          {
+            "velocity": { "x": 1, "y": 0 },
+            "duration": 2000
+          }
+        ]
+      },
+      {
+        "type": "move",
+        "value": [
+          {
+            "velocity": { "x": -1, "y": 0 },
+            "duration": 1000
+          }
+        ]
+      }
+    ]
+  }
+]
