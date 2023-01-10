@@ -1,0 +1,300 @@
+{
+  "name": "Main",
+  "width": 1024,
+  "height": 768,
+  "offsetX": 0,
+  "offsetY": 0,
+  "actorX": 3160,
+  "actorY": 2495,
+  "actorLayerId": 3,
+  "ground": [],
+  "objects": [
+    {
+      "id": 2,
+      "name": "Ground",
+      "type": "layer-grid",
+      "x": 0,
+      "y": 0,
+      "zIndex": 0,
+      "visible": true,
+      "externalId": 1,
+      "children": []
+    },
+    {
+      "id": 3,
+      "name": "Main",
+      "type": "layer-sprites",
+      "x": 0,
+      "y": 0,
+      "zIndex": 0,
+      "visible": true,
+      "externalId": null,
+      "children": [
+        {
+          "id": 4,
+          "name": "Tree-1",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 19,
+          "animationId": null,
+          "x": 5410.999999999997,
+          "y": 2815.999999999998,
+          "zIndex": 0
+        },
+        {
+          "id": 5,
+          "name": "Tree-2",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 20,
+          "animationId": null,
+          "x": 2148.999999999999,
+          "y": 210.99999999999986,
+          "zIndex": 0
+        },
+        {
+          "id": 6,
+          "name": "Tree-3",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 21,
+          "animationId": null,
+          "x": 6044.999999999996,
+          "y": 2202.999999999998,
+          "zIndex": 0
+        },
+        {
+          "id": 7,
+          "name": "Tree-4",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 22,
+          "animationId": null,
+          "x": 2467.999999999999,
+          "y": 2621.9999999999986,
+          "zIndex": 0
+        },
+        {
+          "id": 8,
+          "name": "Tree-5",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 23,
+          "animationId": null,
+          "x": 3772.999999999998,
+          "y": 220.00000000000006,
+          "zIndex": 0
+        },
+        {
+          "id": 9,
+          "name": "Tree-6",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 24,
+          "animationId": null,
+          "x": 1010,
+          "y": 1238.999999999999,
+          "zIndex": 0
+        },
+        {
+          "id": 10,
+          "name": "Tree-7",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 25,
+          "animationId": null,
+          "x": 3896.6666666666647,
+          "y": 769.9999999999995,
+          "zIndex": 0
+        },
+        {
+          "id": 11,
+          "name": "Tree-8",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 26,
+          "animationId": null,
+          "x": 4219.999999999997,
+          "y": 1719.999999999999,
+          "zIndex": 0
+        },
+        {
+          "id": 12,
+          "name": "Tree-9",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 27,
+          "animationId": null,
+          "x": 3938.333333333333,
+          "y": 3242.5,
+          "zIndex": 0
+        },
+        {
+          "id": 13,
+          "name": "Tree-10",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 28,
+          "animationId": null,
+          "x": 2714.166666666666,
+          "y": 3429.9999999999995,
+          "zIndex": 0
+        },
+        {
+          "id": 14,
+          "name": "Tree-11",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 29,
+          "animationId": null,
+          "x": 3302.499999999999,
+          "y": 3714.999999999998,
+          "zIndex": 0
+        },
+        {
+          "id": 15,
+          "name": "Tree-12",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 30,
+          "animationId": null,
+          "x": 3149.166666666665,
+          "y": 4530.833333333331,
+          "zIndex": 0
+        },
+        {
+          "id": 16,
+          "name": "Tree-13",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 31,
+          "animationId": null,
+          "x": 3355.833333333332,
+          "y": 4133.333333333331,
+          "zIndex": 0
+        },
+        {
+          "id": 17,
+          "name": "Tree-14",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 32,
+          "animationId": null,
+          "x": 3010.8333333333326,
+          "y": 3992.4999999999977,
+          "zIndex": 0
+        },
+        {
+          "id": 18,
+          "name": "Tree-15",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 33,
+          "animationId": null,
+          "x": 2944.1666666666665,
+          "y": 3233.333333333333,
+          "zIndex": 0
+        },
+        {
+          "id": 19,
+          "name": "Tree-16",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 34,
+          "animationId": null,
+          "x": 3657.499999999998,
+          "y": 3589.1666666666647,
+          "zIndex": 0
+        },
+        {
+          "id": 20,
+          "name": "Tree-17",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 35,
+          "animationId": null,
+          "x": 78.33333333333337,
+          "y": 3869.999999999999,
+          "zIndex": 0
+        },
+        {
+          "id": 21,
+          "name": "Tree-18",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 36,
+          "animationId": null,
+          "x": 634.9999999999999,
+          "y": 2873.3333333333335,
+          "zIndex": 0
+        },
+        {
+          "id": 22,
+          "name": "Tree-19",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 37,
+          "animationId": null,
+          "x": 380,
+          "y": 2693.333333333333,
+          "zIndex": 0
+        },
+        {
+          "id": 23,
+          "name": "Tree-20",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 38,
+          "animationId": null,
+          "x": 869.9999999999999,
+          "y": 3260,
+          "zIndex": 0
+        },
+        {
+          "id": 24,
+          "name": "Tree-21",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 39,
+          "animationId": null,
+          "x": 58.33333333333329,
+          "y": 3359.9999999999995,
+          "zIndex": 0
+        },
+        {
+          "id": 25,
+          "name": "Tree-22",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 40,
+          "animationId": null,
+          "x": 79.99999999999983,
+          "y": 2168.333333333333,
+          "zIndex": 0
+        },
+        {
+          "id": 26,
+          "name": "Tree-23",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 41,
+          "animationId": null,
+          "x": 414.9999999999999,
+          "y": 3574.9999999999995,
+          "zIndex": 0
+        },
+        {
+          "id": 27,
+          "name": "Tree-24",
+          "type": "sprite",
+          "visible": true,
+          "externalId": 42,
+          "animationId": null,
+          "x": 628.3333333333333,
+          "y": 2609.9999999999995,
+          "zIndex": 0
+        }
+      ]
+    }
+  ]
+}
