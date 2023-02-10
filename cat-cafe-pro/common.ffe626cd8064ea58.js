@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcat_cafe=self.webpackChunkcat_cafe||[]).push([[592],{3330:(s,e,c)=>{c.d(e,{D:()=>t});class t{static blurActiveElement(){document.activeElement.blur&&document.activeElement.blur()}static setFocusById(u){document.querySelector(`#${u}`)?.focus()}}}}]);
