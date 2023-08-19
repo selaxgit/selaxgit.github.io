@@ -1,29 +1,192 @@
 <!DOCTYPE html>
 <html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Selax github.io</title>
-</head>
-<body>
-    <p><a href="/walking-cat/">Walking cat</a></p>
-    <p><a href="/ttf/">Through the fog</a></p>
-	<p><a href="/si/">Space inviders</a></p>
-	<p><a href="/oba/">Online-booking</a></p>
-	<p><a href="/form-orm/">Form.ORM</a></p>
-	<p><a href="/g-editor/">G-Editor</a></p>
-	<p><a href="/game-helpers/">Game helpers</a></p>
-	<p><a href="/ng-games/">Ng-games</a></p>
-	<p><a href="/dos-dissertation/">DOS dissertation</a></p>
-	<p><a href="/arrangement/">Обустройство</a></p>
-	<p><a href="/s-maker/">S-Maker</a></p>
-	<p><a href="/u-forms/">U-Forms</a></p>
-	<p><a href="/image-collector/">Image collector</a></p>
-	<p><a href="/s-games/">S-Games</a></p>
-	<p><a href="/cat-cafe/">Cat cafe</a></p>
-	<p><a href="/cat-cafe-pro/">Cat cafe PRO</a></p>
-	<p><a href="/joke/">Joke</a></p>
-	<p><a href="/swg-world/">SWG World</a></p>
-</body>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+  </head>
+  <body>
+    <p class="text-center">
+      Исторически так сложилось, что все исходники у меня хранятся на
+      <a href="https://bitbucket.org" target="_blank">bitbucket.org</a>.
+      <br />
+      Поэтому здесь представлены некоторые уже готовые проекты.
+    </p>
+    <h3 class="text-center">Презентации</h3>
+    <div class="list">
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/oba/">Online-booking</a>
+        </div>
+        <div class="list__item__desc">
+          Предварительная версия админки для сайта опросника на получение
+          путевок
+        </div>
+        <div class="list__item__footer">Angular</div>
+      </div>
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/dos-dissertation/">DOS dissertation</a>
+        </div>
+        <div class="list__item__desc">
+          Презентация для защиты докторской одного моего друга
+        </div>
+        <div class="list__item__footer">Angular, Яндекс-карты, IndexedDB</div>
+      </div>
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/arrangement/">Обустройство</a>
+        </div>
+        <div class="list__item__desc">
+          Презентация для одного моего друга на нефтегазовой конференции
+        </div>
+        <div class="list__item__footer">Angular, Pixi.js, IndexedDB</div>
+      </div>
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/cat-cafe/">Cat cafe</a>
+        </div>
+        <div class="list__item__desc">
+          Первая версия продажной системы для Котофейни. Пин-код 170123
+        </div>
+        <div class="list__item__footer">Angular, LocalStorage</div>
+      </div>
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/cat-cafe-pro/">Cat cafe PRO</a>
+        </div>
+        <div class="list__item__desc">
+          Продажная система для Котофейни. Пин-код 170123 <br />
+          Готово, примерно, 10% от планируемого функционала.
+        </div>
+        <div class="list__item__footer">Angular, LocalStorage</div>
+      </div>
+    </div>
+    <h3 class="text-center">Утилиты</h3>
+    <div class="list">
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/form-orm/">Form.ORM</a>
+        </div>
+        <div class="list__item__desc">
+          Самая первая версия визуального редактора форм.
+        </div>
+        <div class="list__item__footer">Angular, IndexedDB</div>
+      </div>
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/u-forms/">U-Forms</a>
+        </div>
+        <div class="list__item__desc">
+          Визуальный редактор форм.
+          <br />Готово, примерно, 80% от планируемого функционала.
+        </div>
+        <div class="list__item__footer">Angular, IndexedDB</div>
+      </div>
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/image-collector/">Image collector</a>
+        </div>
+        <div class="list__item__desc">
+          Утилита для сборки нескольких изображений в одну картинку или в один
+          файл PDF
+        </div>
+        <div class="list__item__footer">Angular, jspdf, jszip</div>
+      </div>
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/g-editor/">G-Editor</a>
+        </div>
+        <div class="list__item__desc">Визуальный редактор карт для игр</div>
+        <div class="list__item__footer">Pixi.js, IndexedDB</div>
+      </div>
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/game-helpers/">Game helpers</a>
+        </div>
+        <div class="list__item__desc">
+          Первая версия помощника для разработки игр на Pixi.js
+        </div>
+        <div class="list__item__footer">Angular, Pixi.js, jszip, IndexedDB</div>
+      </div>
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/s-maker/">S-Maker 3.0</a>
+        </div>
+        <div class="list__item__desc">
+          Мой помощник для разработки игр на Pixi.js ;) <br />
+          Предыдущая версия <a href="/s-maker-old/">S-Maker 2</a>
+        </div>
+        <div class="list__item__footer">Angular, Pixi.js, jszip, IndexedDB</div>
+      </div>
+    </div>
+    <h3 class="text-center">Игры</h3>
+
+    <div class="list">
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/ttf/">Through the fog</a>
+        </div>
+        <div class="list__item__desc">Моя первая игрушка</div>
+        <div class="list__item__footer">Pixi.js</div>
+      </div>
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/si/">Space inviders</a>
+        </div>
+        <div class="list__item__desc">
+          Первая проба повторить Space inviders
+        </div>
+        <div class="list__item__footer">Pixi.js</div>
+      </div>
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/ng-games/">Ng-games</a>
+        </div>
+        <div class="list__item__desc">
+          Первый сборник игр (готовых и не очень)
+        </div>
+        <div class="list__item__footer">Angular, Pixi.js</div>
+      </div>
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/s-games/">S-Games</a>
+        </div>
+        <div class="list__item__desc">Второй сборник игр</div>
+        <div class="list__item__footer">Angular, Pixi.js</div>
+      </div>
+    </div>
+    <h3 class="text-center">Шутки</h3>
+    <div class="list list-3-col">
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/walking-cat/">Walking cat</a>
+        </div>
+        <div class="list__item__desc">Бродячий кот</div>
+        <div class="list__item__footer">Javascript, Canvas</div>
+      </div>
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/joke/">Joke</a>
+        </div>
+        <div class="list__item__desc">
+          Планировалось разлетение на кусочки любой html-страницы, но руки не
+          дошли
+        </div>
+        <div class="list__item__footer">Angular, html2canvas</div>
+      </div>
+      <div class="list__item">
+        <div class="list__item__title">
+          <a href="/swg-world/">SWG World</a>
+        </div>
+        <div class="list__item__desc">
+          SWG-карта мира с возможностью добавления произвольных точек интереса
+        </div>
+        <div class="list__item__footer">Angular, IndexedDB</div>
+      </div>
+    </div>
+  </body>
 </html>
