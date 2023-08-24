@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Test Modile</title>
+  </head>
+  <body>
+    <div id="info"></div>
+    <script>
+      const info = {
+        windowWidth: window.innerWidth,
+        windowHeight: window.innerHeight,
+      };
+      document.querySelector("#info").innerHTML = JSON.stringify(info, null, 2);
+    </script>
+  </body>
+</html>
