@@ -50,6 +50,22 @@ a:hover {
 }
 
 .list__item__footer {
-  text-align: right;
+  display: flex;
+  justify-content: flex-end;
   font-size: 12px;
+}
+
+.list__item__footer.list__item__footer--with-updated {
+  justify-content: flex-start;
+  border-top: 1px solid #c6c6c6;
+  margin-top: 5px;
+  padding-top: 5px;
+}
+
+.list__item__footer .list__item__footer--updated {
+  flex: auto
+}
+
+.list__item__footer .list__item__footer--tools {
+  text-align: right;
 }

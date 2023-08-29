@@ -1,0 +1,92 @@
+{
+  "id": 23,
+  "name": "Bather",
+  "width": 64,
+  "height": 53,
+  "groundPoint": null,
+  "animations": [
+    {
+      "id": 61,
+      "name": "def",
+      "default": true,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 74,
+          "loop": true,
+          "speed": 0.04
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "id": 74,
+      "name": "Layer 1",
+      "x": 0,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 662,
+          "x": 10,
+          "y": 3,
+          "height": 39,
+          "width": 48,
+          "zIndex": 0
+        },
+        {
+          "fileId": 663,
+          "x": 10,
+          "y": 10,
+          "height": 32,
+          "width": 48,
+          "zIndex": 1
+        },
+        {
+          "fileId": 664,
+          "x": 10,
+          "y": 3,
+          "height": 39,
+          "width": 48,
+          "zIndex": 2
+        },
+        {
+          "fileId": 662,
+          "x": 13,
+          "y": 6,
+          "height": 39,
+          "width": 48,
+          "zIndex": 3
+        },
+        {
+          "fileId": 662,
+          "x": 10,
+          "y": 9,
+          "height": 39,
+          "width": 48,
+          "zIndex": 4
+        },
+        {
+          "fileId": 662,
+          "x": 4,
+          "y": 6,
+          "height": 39,
+          "width": 48,
+          "zIndex": 5
+        },
+        {
+          "fileId": 662,
+          "x": 7,
+          "y": 0,
+          "height": 39,
+          "width": 48,
+          "zIndex": 6
+        }
+      ]
+    }
+  ]
+}

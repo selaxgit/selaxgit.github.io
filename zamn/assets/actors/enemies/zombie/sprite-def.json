@@ -1,0 +1,452 @@
+{
+  "id": 21,
+  "name": "Zombie",
+  "width": 39,
+  "height": 51,
+  "groundPoint": {
+    "x": 18,
+    "y": 47
+  },
+  "animations": [
+    {
+      "id": 53,
+      "name": "appearing",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 66,
+          "loop": false,
+          "speed": 0.07
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "death",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 67,
+          "loop": false,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "up",
+      "default": false,
+      "groundPoint": {
+        "x": 17,
+        "y": 43
+      },
+      "collisionFrame": {
+        "x": 4,
+        "y": 3,
+        "width": 25,
+        "height": 45
+      },
+      "layers": [
+        {
+          "layerId": 68,
+          "loop": true,
+          "speed": 0.04
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "right",
+      "default": false,
+      "groundPoint": {
+        "x": 17,
+        "y": 46
+      },
+      "collisionFrame": {
+        "x": 8,
+        "y": 2,
+        "width": 25,
+        "height": 46
+      },
+      "layers": [
+        {
+          "layerId": 69,
+          "loop": true,
+          "speed": 0.04
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "down",
+      "default": false,
+      "groundPoint": {
+        "x": 18,
+        "y": 45
+      },
+      "collisionFrame": {
+        "x": 4,
+        "y": 2,
+        "width": 25,
+        "height": 46
+      },
+      "layers": [
+        {
+          "layerId": 70,
+          "loop": true,
+          "speed": 0.04
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "left",
+      "default": false,
+      "groundPoint": {
+        "x": 17,
+        "y": 45
+      },
+      "collisionFrame": {
+        "x": 1,
+        "y": 1,
+        "width": 23,
+        "height": 45
+      },
+      "layers": [
+        {
+          "layerId": 71,
+          "loop": true,
+          "speed": 0.04
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "id": 66,
+      "name": "appearing",
+      "x": 0,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 628,
+          "x": 5,
+          "y": 43,
+          "height": 6,
+          "width": 12,
+          "zIndex": 0
+        },
+        {
+          "fileId": 629,
+          "x": 3,
+          "y": 36,
+          "height": 13,
+          "width": 24,
+          "zIndex": 1
+        },
+        {
+          "fileId": 630,
+          "x": 1,
+          "y": 34,
+          "height": 16,
+          "width": 32,
+          "zIndex": 2
+        },
+        {
+          "fileId": 631,
+          "x": 0,
+          "y": 27,
+          "height": 21,
+          "width": 39,
+          "zIndex": 3
+        },
+        {
+          "fileId": 632,
+          "x": 0,
+          "y": 9,
+          "height": 41,
+          "width": 32,
+          "zIndex": 4
+        },
+        {
+          "fileId": 633,
+          "x": 3,
+          "y": 2,
+          "height": 47,
+          "width": 28,
+          "zIndex": 5
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "death",
+      "x": 0,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 634,
+          "x": 0,
+          "y": 0,
+          "height": 51,
+          "width": 34,
+          "zIndex": 0
+        },
+        {
+          "fileId": 635,
+          "x": 0,
+          "y": 0,
+          "height": 51,
+          "width": 34,
+          "zIndex": 1
+        },
+        {
+          "fileId": 636,
+          "x": 0,
+          "y": 0,
+          "height": 51,
+          "width": 34,
+          "zIndex": 2
+        },
+        {
+          "fileId": 637,
+          "x": 0,
+          "y": 0,
+          "height": 51,
+          "width": 34,
+          "zIndex": 3
+        },
+        {
+          "fileId": 638,
+          "x": 0,
+          "y": 0,
+          "height": 51,
+          "width": 34,
+          "zIndex": 4
+        },
+        {
+          "fileId": 639,
+          "x": 0,
+          "y": 0,
+          "height": 51,
+          "width": 34,
+          "zIndex": 5
+        },
+        {
+          "fileId": 640,
+          "x": 0,
+          "y": 0,
+          "height": 51,
+          "width": 34,
+          "zIndex": 6
+        },
+        {
+          "fileId": 641,
+          "x": 0,
+          "y": 0,
+          "height": 51,
+          "width": 34,
+          "zIndex": 7
+        },
+        {
+          "fileId": 642,
+          "x": 0,
+          "y": 0,
+          "height": 51,
+          "width": 34,
+          "zIndex": 8
+        },
+        {
+          "fileId": 643,
+          "x": 0,
+          "y": 0,
+          "height": 51,
+          "width": 34,
+          "zIndex": 9
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "up",
+      "x": 6,
+      "y": 3,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 656,
+          "x": 0,
+          "y": 0,
+          "height": 46,
+          "width": 22,
+          "zIndex": 0
+        },
+        {
+          "fileId": 657,
+          "x": 0,
+          "y": 0,
+          "height": 46,
+          "width": 22,
+          "zIndex": 1
+        },
+        {
+          "fileId": 658,
+          "x": 0,
+          "y": 0,
+          "height": 46,
+          "width": 22,
+          "zIndex": 2
+        },
+        {
+          "fileId": 659,
+          "x": 0,
+          "y": 0,
+          "height": 46,
+          "width": 22,
+          "zIndex": 3
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "right",
+      "x": 3,
+      "y": 2,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 652,
+          "x": 5,
+          "y": 0,
+          "height": 46,
+          "width": 25,
+          "zIndex": 0
+        },
+        {
+          "fileId": 653,
+          "x": 1,
+          "y": 0,
+          "height": 45,
+          "width": 29,
+          "zIndex": 1
+        },
+        {
+          "fileId": 654,
+          "x": 3,
+          "y": 0,
+          "height": 46,
+          "width": 27,
+          "zIndex": 2
+        },
+        {
+          "fileId": 655,
+          "x": 0,
+          "y": 0,
+          "height": 45,
+          "width": 30,
+          "zIndex": 3
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "down",
+      "x": 4,
+      "y": 2,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 644,
+          "x": 0,
+          "y": 0,
+          "height": 47,
+          "width": 27,
+          "zIndex": 0
+        },
+        {
+          "fileId": 645,
+          "x": 0,
+          "y": 0,
+          "height": 48,
+          "width": 27,
+          "zIndex": 1
+        },
+        {
+          "fileId": 646,
+          "x": 0,
+          "y": 0,
+          "height": 48,
+          "width": 27,
+          "zIndex": 2
+        },
+        {
+          "fileId": 647,
+          "x": 0,
+          "y": 0,
+          "height": 47,
+          "width": 27,
+          "zIndex": 3
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "left",
+      "x": 0,
+      "y": 1,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 648,
+          "x": 0,
+          "y": 0,
+          "height": 46,
+          "width": 25,
+          "zIndex": 0
+        },
+        {
+          "fileId": 649,
+          "x": 0,
+          "y": 0,
+          "height": 45,
+          "width": 29,
+          "zIndex": 1
+        },
+        {
+          "fileId": 650,
+          "x": 0,
+          "y": 0,
+          "height": 46,
+          "width": 27,
+          "zIndex": 2
+        },
+        {
+          "fileId": 651,
+          "x": 0,
+          "y": 0,
+          "height": 45,
+          "width": 30,
+          "zIndex": 3
+        }
+      ]
+    }
+  ]
+}

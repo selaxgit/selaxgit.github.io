@@ -1,0 +1,77 @@
+{
+  "id": 22,
+  "name": "life",
+  "width": 4,
+  "height": 14,
+  "groundPoint": null,
+  "animations": [
+    {
+      "id": 59,
+      "name": "life",
+      "default": true,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 72,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "life-off",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 73,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "id": 72,
+      "name": "Layer 1",
+      "x": 0,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 661,
+          "x": 0,
+          "y": 0,
+          "height": 14,
+          "width": 4,
+          "zIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Layer 2",
+      "x": 0,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 660,
+          "x": 0,
+          "y": 0,
+          "height": 14,
+          "width": 4,
+          "zIndex": 0
+        }
+      ]
+    }
+  ]
+}

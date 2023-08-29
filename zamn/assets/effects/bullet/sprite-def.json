@@ -1,0 +1,193 @@
+{
+  "id": 20,
+  "name": "Bullet",
+  "width": 16,
+  "height": 16,
+  "groundPoint": null,
+  "animations": [
+    {
+      "id": 48,
+      "name": "left",
+      "default": false,
+      "groundPoint": {
+        "x": 0,
+        "y": 8
+      },
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 61,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "right",
+      "default": false,
+      "groundPoint": {
+        "x": 16,
+        "y": 8
+      },
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 62,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "up",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 63,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "down",
+      "default": false,
+      "groundPoint": {
+        "x": 8,
+        "y": 15
+      },
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 64,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "explode",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 65,
+          "loop": false,
+          "speed": 0.5
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "id": 61,
+      "name": "left",
+      "x": 0,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 623,
+          "x": 0,
+          "y": 6,
+          "height": 3,
+          "width": 16,
+          "zIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "right",
+      "x": 0,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 627,
+          "x": 0,
+          "y": 6,
+          "height": 3,
+          "width": 16,
+          "zIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "up",
+      "x": 0,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 625,
+          "x": 5,
+          "y": 0,
+          "height": 14,
+          "width": 5,
+          "zIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "down",
+      "x": 0,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 620,
+          "x": 5,
+          "y": 0,
+          "height": 14,
+          "width": 5,
+          "zIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "explode",
+      "x": 0,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 621,
+          "x": 1,
+          "y": 2,
+          "height": 11,
+          "width": 13,
+          "zIndex": 0
+        },
+        {
+          "fileId": 622,
+          "x": 0,
+          "y": 1,
+          "height": 14,
+          "width": 14,
+          "zIndex": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1291 @@
+{
+  "id": 17,
+  "name": "Zeke",
+  "width": 64,
+  "height": 64,
+  "groundPoint": {
+    "x": 17,
+    "y": 39
+  },
+  "animations": [
+    {
+      "id": 28,
+      "name": "stay-top",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 38,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "stay-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 35,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "stay-down",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 40,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "stay-left",
+      "default": true,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 41,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "running-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": {
+        "x": 11,
+        "y": 5,
+        "width": 18,
+        "height": 36
+      },
+      "layers": [
+        {
+          "layerId": 35,
+          "loop": true,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "running-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": {
+        "x": 10,
+        "y": 6,
+        "width": 19,
+        "height": 36
+      },
+      "layers": [
+        {
+          "layerId": 37,
+          "loop": true,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "running-top",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": {
+        "x": 12,
+        "y": 6,
+        "width": 17,
+        "height": 33
+      },
+      "layers": [
+        {
+          "layerId": 34,
+          "loop": true,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "running-down",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": {
+        "x": 12,
+        "y": 6,
+        "width": 16,
+        "height": 34
+      },
+      "layers": [
+        {
+          "layerId": 36,
+          "loop": true,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "swim",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 43,
+          "loop": true,
+          "speed": 0.1
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "to-water-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 44,
+          "loop": false,
+          "speed": 0.07
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "to-water-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 45,
+          "loop": false,
+          "speed": 0.07
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "to-water-up",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 46,
+          "loop": false,
+          "speed": 0.07
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "to-water-down",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 47,
+          "loop": false,
+          "speed": 0.07
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "from-water-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 48,
+          "loop": false,
+          "speed": 0.07
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "from-water-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 49,
+          "loop": false,
+          "speed": 0.07
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "from-water-up",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 51,
+          "loop": false,
+          "speed": 0.07
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "from-water-down",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 50,
+          "loop": false,
+          "speed": 0.07
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "stay-gun-top",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 54,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "stay-gun-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 55,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "stay-gun-down",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 57,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "stay-gun-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 56,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "running-gun-top",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 58,
+          "loop": true,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "running-gun-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 59,
+          "loop": true,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "running-gun-down",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 53,
+          "loop": true,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "running-gun-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 60,
+          "loop": true,
+          "speed": 0.15
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "id": 38,
+      "name": "stay-top",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 517,
+          "x": 6,
+          "y": 0,
+          "height": 35,
+          "width": 16,
+          "zIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "stay-right",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 512,
+          "x": 7,
+          "y": 0,
+          "height": 37,
+          "width": 15,
+          "zIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "stay-down",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 502,
+          "x": 5,
+          "y": 0,
+          "height": 36,
+          "width": 16,
+          "zIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "stay-left",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 507,
+          "x": 5,
+          "y": 0,
+          "height": 37,
+          "width": 15,
+          "zIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "running-top",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 517,
+          "x": 6,
+          "y": 0,
+          "height": 35,
+          "width": 16,
+          "zIndex": 0
+        },
+        {
+          "fileId": 518,
+          "x": 7,
+          "y": 0,
+          "height": 36,
+          "width": 14,
+          "zIndex": 1
+        },
+        {
+          "fileId": 519,
+          "x": 6,
+          "y": 0,
+          "height": 35,
+          "width": 16,
+          "zIndex": 2
+        },
+        {
+          "fileId": 520,
+          "x": 6,
+          "y": 0,
+          "height": 36,
+          "width": 14,
+          "zIndex": 3
+        },
+        {
+          "fileId": 521,
+          "x": 6,
+          "y": 0,
+          "height": 35,
+          "width": 16,
+          "zIndex": 4
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "running-right",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 512,
+          "x": 7,
+          "y": 0,
+          "height": 37,
+          "width": 15,
+          "zIndex": 0
+        },
+        {
+          "fileId": 513,
+          "x": 6,
+          "y": 0,
+          "height": 37,
+          "width": 13,
+          "zIndex": 1
+        },
+        {
+          "fileId": 514,
+          "x": 3,
+          "y": 0,
+          "height": 37,
+          "width": 21,
+          "zIndex": 2
+        },
+        {
+          "fileId": 515,
+          "x": 6,
+          "y": 0,
+          "height": 37,
+          "width": 14,
+          "zIndex": 3
+        },
+        {
+          "fileId": 516,
+          "x": 1,
+          "y": 0,
+          "height": 36,
+          "width": 21,
+          "zIndex": 4
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "running-down",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 502,
+          "x": 5,
+          "y": 0,
+          "height": 36,
+          "width": 16,
+          "zIndex": 0
+        },
+        {
+          "fileId": 503,
+          "x": 6,
+          "y": 0,
+          "height": 37,
+          "width": 15,
+          "zIndex": 1
+        },
+        {
+          "fileId": 504,
+          "x": 4,
+          "y": 0,
+          "height": 37,
+          "width": 16,
+          "zIndex": 2
+        },
+        {
+          "fileId": 505,
+          "x": 6,
+          "y": 0,
+          "height": 37,
+          "width": 15,
+          "zIndex": 3
+        },
+        {
+          "fileId": 506,
+          "x": 7,
+          "y": 0,
+          "height": 37,
+          "width": 15,
+          "zIndex": 4
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "running-left",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 507,
+          "x": 5,
+          "y": 0,
+          "height": 37,
+          "width": 15,
+          "zIndex": 0
+        },
+        {
+          "fileId": 508,
+          "x": 8,
+          "y": 0,
+          "height": 37,
+          "width": 13,
+          "zIndex": 1
+        },
+        {
+          "fileId": 509,
+          "x": 3,
+          "y": 0,
+          "height": 37,
+          "width": 21,
+          "zIndex": 2
+        },
+        {
+          "fileId": 510,
+          "x": 7,
+          "y": 0,
+          "height": 37,
+          "width": 14,
+          "zIndex": 3
+        },
+        {
+          "fileId": 511,
+          "x": 5,
+          "y": 0,
+          "height": 36,
+          "width": 21,
+          "zIndex": 4
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "swim",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 570,
+          "x": 7,
+          "y": 19,
+          "height": 15,
+          "width": 21,
+          "zIndex": 0
+        },
+        {
+          "fileId": 571,
+          "x": 4,
+          "y": 20,
+          "height": 15,
+          "width": 25,
+          "zIndex": 1
+        },
+        {
+          "fileId": 572,
+          "x": 1,
+          "y": 23,
+          "height": 13,
+          "width": 31,
+          "zIndex": 2
+        },
+        {
+          "fileId": 573,
+          "x": 0,
+          "y": 22,
+          "height": 15,
+          "width": 33,
+          "zIndex": 3
+        },
+        {
+          "fileId": 574,
+          "x": 5,
+          "y": 19,
+          "height": 15,
+          "width": 22,
+          "zIndex": 4
+        },
+        {
+          "fileId": 575,
+          "x": 4,
+          "y": 20,
+          "height": 15,
+          "width": 25,
+          "zIndex": 5
+        },
+        {
+          "fileId": 576,
+          "x": 1,
+          "y": 23,
+          "height": 13,
+          "width": 31,
+          "zIndex": 6
+        },
+        {
+          "fileId": 577,
+          "x": 0,
+          "y": 22,
+          "height": 15,
+          "width": 33,
+          "zIndex": 7
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "to-water-left",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 587,
+          "x": 7,
+          "y": 7,
+          "height": 30,
+          "width": 16,
+          "zIndex": 0
+        },
+        {
+          "fileId": 588,
+          "x": 4,
+          "y": 4,
+          "height": 27,
+          "width": 20,
+          "zIndex": 1
+        },
+        {
+          "fileId": 589,
+          "x": 6,
+          "y": 0,
+          "height": 31,
+          "width": 20,
+          "zIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "to-water-right",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 581,
+          "x": 7,
+          "y": 7,
+          "height": 30,
+          "width": 16,
+          "zIndex": 0
+        },
+        {
+          "fileId": 582,
+          "x": 6,
+          "y": 6,
+          "height": 27,
+          "width": 20,
+          "zIndex": 1
+        },
+        {
+          "fileId": 583,
+          "x": 5,
+          "y": 2,
+          "height": 31,
+          "width": 20,
+          "zIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "to-water-up",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 584,
+          "x": 9,
+          "y": 10,
+          "height": 27,
+          "width": 16,
+          "zIndex": 0
+        },
+        {
+          "fileId": 585,
+          "x": 8,
+          "y": 3,
+          "height": 30,
+          "width": 16,
+          "zIndex": 1
+        },
+        {
+          "fileId": 586,
+          "x": 5,
+          "y": 5,
+          "height": 23,
+          "width": 25,
+          "zIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "to-water-down",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 578,
+          "x": 9,
+          "y": 11,
+          "height": 26,
+          "width": 16,
+          "zIndex": 0
+        },
+        {
+          "fileId": 579,
+          "x": 5,
+          "y": 6,
+          "height": 24,
+          "width": 25,
+          "zIndex": 1
+        },
+        {
+          "fileId": 580,
+          "x": 3,
+          "y": 7,
+          "height": 24,
+          "width": 26,
+          "zIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "from-water-left",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 593,
+          "x": 1,
+          "y": 3,
+          "height": 33,
+          "width": 31,
+          "zIndex": 0
+        },
+        {
+          "fileId": 588,
+          "x": 4,
+          "y": 4,
+          "height": 27,
+          "width": 20,
+          "zIndex": 1
+        },
+        {
+          "fileId": 589,
+          "x": 6,
+          "y": 0,
+          "height": 31,
+          "width": 20,
+          "zIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "from-water-right",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 591,
+          "x": 0,
+          "y": 4,
+          "height": 33,
+          "width": 31,
+          "zIndex": 0
+        },
+        {
+          "fileId": 582,
+          "x": 6,
+          "y": 6,
+          "height": 27,
+          "width": 20,
+          "zIndex": 1
+        },
+        {
+          "fileId": 583,
+          "x": 5,
+          "y": 2,
+          "height": 31,
+          "width": 20,
+          "zIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "from-water-up",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 592,
+          "x": 1,
+          "y": 0,
+          "height": 40,
+          "width": 31,
+          "zIndex": 0
+        },
+        {
+          "fileId": 586,
+          "x": 5,
+          "y": 5,
+          "height": 23,
+          "width": 25,
+          "zIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "from-water-down",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 590,
+          "x": 2,
+          "y": 2,
+          "height": 35,
+          "width": 30,
+          "zIndex": 0
+        },
+        {
+          "fileId": 579,
+          "x": 5,
+          "y": 6,
+          "height": 24,
+          "width": 25,
+          "zIndex": 1
+        },
+        {
+          "fileId": 580,
+          "x": 3,
+          "y": 6,
+          "height": 24,
+          "width": 26,
+          "zIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "stay-gun-top",
+      "x": 7,
+      "y": 4,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 607,
+          "x": 6,
+          "y": 0,
+          "height": 36,
+          "width": 16,
+          "zIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "stay-gun-right",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 606,
+          "x": 7,
+          "y": 0,
+          "height": 37,
+          "width": 23,
+          "zIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "stay-gun-down",
+      "x": 2,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 599,
+          "x": 10,
+          "y": 4,
+          "height": 37,
+          "width": 16,
+          "zIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "stay-gun-left",
+      "x": 2,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 605,
+          "x": 2,
+          "y": 0,
+          "height": 37,
+          "width": 23,
+          "zIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "running-gun-top",
+      "x": 2,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 607,
+          "x": 11,
+          "y": 4,
+          "height": 36,
+          "width": 16,
+          "zIndex": 0
+        },
+        {
+          "fileId": 608,
+          "x": 13,
+          "y": 4,
+          "height": 36,
+          "width": 13,
+          "zIndex": 1
+        },
+        {
+          "fileId": 609,
+          "x": 14,
+          "y": 4,
+          "height": 36,
+          "width": 11,
+          "zIndex": 2
+        },
+        {
+          "fileId": 610,
+          "x": 11,
+          "y": 4,
+          "height": 37,
+          "width": 13,
+          "zIndex": 3
+        },
+        {
+          "fileId": 611,
+          "x": 13,
+          "y": 4,
+          "height": 36,
+          "width": 11,
+          "zIndex": 4
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "running-gun-right",
+      "x": 2,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 606,
+          "x": 14,
+          "y": 5,
+          "height": 37,
+          "width": 23,
+          "zIndex": 0
+        },
+        {
+          "fileId": 612,
+          "x": 14,
+          "y": 5,
+          "height": 37,
+          "width": 23,
+          "zIndex": 1
+        },
+        {
+          "fileId": 613,
+          "x": 12,
+          "y": 5,
+          "height": 37,
+          "width": 25,
+          "zIndex": 2
+        },
+        {
+          "fileId": 614,
+          "x": 13,
+          "y": 5,
+          "height": 36,
+          "width": 24,
+          "zIndex": 3
+        },
+        {
+          "fileId": 615,
+          "x": 9,
+          "y": 5,
+          "height": 36,
+          "width": 28,
+          "zIndex": 4
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "running-gun-down",
+      "x": 7,
+      "y": 5,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 599,
+          "x": 5,
+          "y": 0,
+          "height": 37,
+          "width": 16,
+          "zIndex": 0
+        },
+        {
+          "fileId": 601,
+          "x": 7,
+          "y": 0,
+          "height": 37,
+          "width": 12,
+          "zIndex": 2
+        },
+        {
+          "fileId": 602,
+          "x": 4,
+          "y": 0,
+          "height": 37,
+          "width": 15,
+          "zIndex": 3
+        },
+        {
+          "fileId": 603,
+          "x": 7,
+          "y": 0,
+          "height": 37,
+          "width": 12,
+          "zIndex": 4
+        },
+        {
+          "fileId": 604,
+          "x": 7,
+          "y": 0,
+          "height": 37,
+          "width": 15,
+          "zIndex": 5
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "running-gun-left",
+      "x": 0,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 605,
+          "x": 4,
+          "y": 5,
+          "height": 37,
+          "width": 23,
+          "zIndex": 0
+        },
+        {
+          "fileId": 616,
+          "x": 4,
+          "y": 5,
+          "height": 36,
+          "width": 23,
+          "zIndex": 1
+        },
+        {
+          "fileId": 617,
+          "x": 4,
+          "y": 5,
+          "height": 37,
+          "width": 25,
+          "zIndex": 2
+        },
+        {
+          "fileId": 618,
+          "x": 4,
+          "y": 5,
+          "height": 36,
+          "width": 24,
+          "zIndex": 3
+        },
+        {
+          "fileId": 619,
+          "x": 4,
+          "y": 5,
+          "height": 36,
+          "width": 27,
+          "zIndex": 4
+        }
+      ]
+    }
+  ]
+}

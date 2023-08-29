@@ -1,0 +1,172 @@
+{
+  "id": 18,
+  "name": "Cook",
+  "width": 51,
+  "height": 64,
+  "groundPoint": null,
+  "animations": [
+    {
+      "id": 29,
+      "name": "def",
+      "default": true,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 42,
+          "loop": true,
+          "speed": 0.07
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "id": 42,
+      "name": "Layer 1",
+      "x": 0,
+      "y": 0,
+      "zIndex": 0,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "frames": [
+        {
+          "fileId": 522,
+          "x": 3,
+          "y": 16,
+          "height": 48,
+          "width": 48,
+          "zIndex": 0
+        },
+        {
+          "fileId": 523,
+          "x": 3,
+          "y": 16,
+          "height": 48,
+          "width": 48,
+          "zIndex": 1
+        },
+        {
+          "fileId": 524,
+          "x": 3,
+          "y": 16,
+          "height": 48,
+          "width": 48,
+          "zIndex": 2
+        },
+        {
+          "fileId": 525,
+          "x": 3,
+          "y": 3,
+          "height": 61,
+          "width": 48,
+          "zIndex": 3
+        },
+        {
+          "fileId": 526,
+          "x": 3,
+          "y": 2,
+          "height": 62,
+          "width": 48,
+          "zIndex": 4
+        },
+        {
+          "fileId": 527,
+          "x": 3,
+          "y": 0,
+          "height": 64,
+          "width": 48,
+          "zIndex": 5
+        },
+        {
+          "fileId": 528,
+          "x": 3,
+          "y": 16,
+          "height": 48,
+          "width": 48,
+          "zIndex": 6
+        },
+        {
+          "fileId": 529,
+          "x": 3,
+          "y": 16,
+          "height": 48,
+          "width": 48,
+          "zIndex": 7
+        },
+        {
+          "fileId": 530,
+          "x": 3,
+          "y": 16,
+          "height": 48,
+          "width": 48,
+          "zIndex": 8
+        },
+        {
+          "fileId": 531,
+          "x": 0,
+          "y": 16,
+          "height": 48,
+          "width": 51,
+          "zIndex": 9
+        },
+        {
+          "fileId": 532,
+          "x": 3,
+          "y": 1,
+          "height": 63,
+          "width": 48,
+          "zIndex": 10
+        },
+        {
+          "fileId": 533,
+          "x": 3,
+          "y": 16,
+          "height": 48,
+          "width": 48,
+          "zIndex": 11
+        },
+        {
+          "fileId": 534,
+          "x": 3,
+          "y": 12,
+          "height": 52,
+          "width": 48,
+          "zIndex": 12
+        },
+        {
+          "fileId": 535,
+          "x": 3,
+          "y": 3,
+          "height": 61,
+          "width": 48,
+          "zIndex": 13
+        },
+        {
+          "fileId": 536,
+          "x": 3,
+          "y": 17,
+          "height": 47,
+          "width": 48,
+          "zIndex": 14
+        },
+        {
+          "fileId": 537,
+          "x": 3,
+          "y": 16,
+          "height": 48,
+          "width": 48,
+          "zIndex": 15
+        },
+        {
+          "fileId": 538,
+          "x": 3,
+          "y": 16,
+          "height": 48,
+          "width": 48,
+          "zIndex": 16
+        }
+      ]
+    }
+  ]
+}

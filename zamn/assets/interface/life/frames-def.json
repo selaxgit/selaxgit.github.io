@@ -1,0 +1,25 @@
+[
+  {
+    "textureName": "texture.png",
+    "frames": [
+      {
+        "frameId": 661,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 4,
+          "height": 14
+        }
+      },
+      {
+        "frameId": 660,
+        "rect": {
+          "x": 4,
+          "y": 0,
+          "width": 4,
+          "height": 14
+        }
+      }
+    ]
+  }
+]

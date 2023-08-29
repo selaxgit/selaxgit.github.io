@@ -1,0 +1,4066 @@
+{
+  "id": 2,
+  "items": [
+    {
+      "x": 0,
+      "y": 0,
+      "referenceId": 162,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "referenceId": 162,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "referenceId": 162,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "referenceId": 162,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "referenceId": 162,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 11,
+      "y": 10,
+      "referenceId": 162,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 7,
+      "y": 10,
+      "referenceId": 162,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "referenceId": 163,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "referenceId": 163,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 8,
+      "y": 10,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 9,
+      "y": 10,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 9,
+      "y": 9,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 10,
+      "y": 9,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 12,
+      "y": 9,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 16,
+      "y": 7,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 20,
+      "y": 7,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 20,
+      "y": 6,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 20,
+      "y": 5,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 20,
+      "y": 4,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 18,
+      "y": 4,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 18,
+      "y": 2,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 17,
+      "y": 2,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 16,
+      "y": 2,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 15,
+      "y": 2,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 14,
+      "y": 2,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 20,
+      "y": 10,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "referenceId": 165,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "referenceId": 166,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "type": "closed-locker",
+        "cell": "6x0",
+        "visible": true
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "referenceId": 167,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 17,
+      "y": 0,
+      "referenceId": 167,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "referenceId": 168,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 14,
+      "y": 0,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 15,
+      "y": 0,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 19,
+      "y": 0,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 20,
+      "y": 0,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 4,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 5,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 6,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 7,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 8,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 9,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 10,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 11,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 12,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 13,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 14,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 15,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 16,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 17,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 18,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 19,
+      "y": 12,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 9,
+      "y": 8,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 11,
+      "y": 8,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "referenceId": 169,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 16,
+      "y": 0,
+      "referenceId": 170,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "type": "closed-locker",
+        "cell": "16x0",
+        "visible": true
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 18,
+      "y": 0,
+      "referenceId": 168,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 21,
+      "y": 0,
+      "referenceId": 171,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "referenceId": 172,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "referenceId": 173,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "referenceId": 173,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 20,
+      "y": 12,
+      "referenceId": 173,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 10,
+      "y": 8,
+      "referenceId": 173,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "referenceId": 174,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 16,
+      "y": 1,
+      "referenceId": 175,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "referenceId": 177,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "referenceId": 178,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "referenceId": 178,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 15,
+      "y": 1,
+      "referenceId": 179,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "referenceId": 179,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 14,
+      "y": 1,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 18,
+      "y": 1,
+      "referenceId": 180,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 19,
+      "y": 1,
+      "referenceId": 181,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 20,
+      "y": 1,
+      "referenceId": 181,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 21,
+      "y": 1,
+      "referenceId": 182,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "referenceId": 183,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 21,
+      "y": 5,
+      "referenceId": 183,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "referenceId": 184,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "referenceId": 185,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "referenceId": 185,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "referenceId": 186,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 21,
+      "y": 2,
+      "referenceId": 187,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 21,
+      "y": 10,
+      "referenceId": 187,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 21,
+      "y": 11,
+      "referenceId": 187,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "referenceId": 188,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 21,
+      "y": 6,
+      "referenceId": 188,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "referenceId": 189,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "referenceId": 190,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "referenceId": 192,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 14,
+      "y": 3,
+      "referenceId": 193,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "referenceId": 172,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 16,
+      "y": 3,
+      "referenceId": 194,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 17,
+      "y": 3,
+      "referenceId": 195,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 18,
+      "y": 3,
+      "referenceId": 195,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "referenceId": 195,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "referenceId": 195,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 19,
+      "y": 3,
+      "referenceId": 196,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 20,
+      "y": 3,
+      "referenceId": 196,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "referenceId": 196,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 21,
+      "y": 3,
+      "referenceId": 197,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 21,
+      "y": 7,
+      "referenceId": 198,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "referenceId": 198,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "referenceId": 199,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "referenceId": 199,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "referenceId": 200,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "referenceId": 200,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "referenceId": 200,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "referenceId": 200,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "referenceId": 200,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 21,
+      "y": 8,
+      "referenceId": 200,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 21,
+      "y": 9,
+      "referenceId": 187,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 14,
+      "y": 4,
+      "referenceId": 201,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 15,
+      "y": 4,
+      "referenceId": 202,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 16,
+      "y": 4,
+      "referenceId": 203,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 17,
+      "y": 4,
+      "referenceId": 204,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 18,
+      "y": 6,
+      "referenceId": 204,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 17,
+      "y": 7,
+      "referenceId": 204,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 15,
+      "y": 6,
+      "referenceId": 204,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "referenceId": 204,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 10,
+      "y": 10,
+      "referenceId": 204,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 19,
+      "y": 11,
+      "referenceId": 204,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 20,
+      "y": 9,
+      "referenceId": 204,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 14,
+      "y": 9,
+      "referenceId": 204,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 19,
+      "y": 4,
+      "referenceId": 205,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 19,
+      "y": 5,
+      "referenceId": 205,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 17,
+      "y": 5,
+      "referenceId": 205,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 15,
+      "y": 7,
+      "referenceId": 205,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 13,
+      "y": 8,
+      "referenceId": 205,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 11,
+      "y": 11,
+      "referenceId": 205,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 7,
+      "y": 11,
+      "referenceId": 205,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 19,
+      "y": 7,
+      "referenceId": 205,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 21,
+      "y": 4,
+      "referenceId": 206,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "referenceId": 207,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "type": "closed-trashcan",
+        "cell": "0x5",
+        "visible": true
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "referenceId": 208,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "referenceId": 209,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "referenceId": 210,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "referenceId": 211,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "referenceId": 212,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "referenceId": 213,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "referenceId": 214,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "referenceId": 215,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 14,
+      "y": 5,
+      "referenceId": 215,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "referenceId": 215,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "referenceId": 215,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 15,
+      "y": 5,
+      "referenceId": 216,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 16,
+      "y": 5,
+      "referenceId": 217,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 12,
+      "y": 8,
+      "referenceId": 217,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 6,
+      "y": 10,
+      "referenceId": 217,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 18,
+      "y": 5,
+      "referenceId": 218,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 17,
+      "y": 6,
+      "referenceId": 218,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 16,
+      "y": 6,
+      "referenceId": 218,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 19,
+      "y": 6,
+      "referenceId": 218,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 18,
+      "y": 7,
+      "referenceId": 218,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 14,
+      "y": 7,
+      "referenceId": 218,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "referenceId": 218,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 18,
+      "y": 8,
+      "referenceId": 218,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 19,
+      "y": 8,
+      "referenceId": 218,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 13,
+      "y": 9,
+      "referenceId": 218,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "referenceId": 218,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 9,
+      "y": 11,
+      "referenceId": 218,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 14,
+      "y": 6,
+      "referenceId": 205,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "referenceId": 219,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "referenceId": 219,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 21,
+      "y": 12,
+      "referenceId": 217,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "referenceId": 220,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "referenceId": 221,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "referenceId": 222,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "referenceId": 223,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "referenceId": 224,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 8,
+      "y": 9,
+      "referenceId": 224,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "referenceId": 225,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "referenceId": 226,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "referenceId": 227,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "referenceId": 226,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "referenceId": 164,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "referenceId": 200,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "referenceId": 200,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 6,
+      "y": 11,
+      "referenceId": 228,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 5,
+      "y": 11,
+      "referenceId": 228,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "referenceId": 228,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "referenceId": 228,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 14,
+      "y": 8,
+      "referenceId": 228,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 15,
+      "y": 8,
+      "referenceId": 229,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 16,
+      "y": 8,
+      "referenceId": 230,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 18,
+      "y": 9,
+      "referenceId": 230,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 13,
+      "y": 10,
+      "referenceId": 230,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 17,
+      "y": 8,
+      "referenceId": 231,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 19,
+      "y": 9,
+      "referenceId": 231,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 18,
+      "y": 11,
+      "referenceId": 232,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 20,
+      "y": 8,
+      "referenceId": 232,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 12,
+      "y": 11,
+      "referenceId": 232,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "referenceId": 233,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 15,
+      "y": 9,
+      "referenceId": 234,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 16,
+      "y": 9,
+      "referenceId": 235,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 15,
+      "y": 10,
+      "referenceId": 235,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 17,
+      "y": 9,
+      "referenceId": 236,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 17,
+      "y": 10,
+      "referenceId": 236,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 12,
+      "y": 10,
+      "referenceId": 237,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "referenceId": 237,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 14,
+      "y": 10,
+      "referenceId": 238,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 16,
+      "y": 10,
+      "referenceId": 239,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 18,
+      "y": 10,
+      "referenceId": 240,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 13,
+      "y": 11,
+      "referenceId": 240,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 19,
+      "y": 10,
+      "referenceId": 241,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 8,
+      "y": 11,
+      "referenceId": 242,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "referenceId": 242,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 14,
+      "y": 11,
+      "referenceId": 243,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 15,
+      "y": 11,
+      "referenceId": 243,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 16,
+      "y": 11,
+      "referenceId": 243,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 17,
+      "y": 11,
+      "referenceId": 241,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "referenceId": 244,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      }
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "referenceId": 214,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 8,
+      "y": 8,
+      "referenceId": 213,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "referenceId": 172,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "referenceId": 195,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "referenceId": 200,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      }
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "referenceId": 201,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "referenceId": 256,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "type": "opened-trashcan",
+        "cell": "0x5",
+        "visible": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "referenceId": 274,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "type": "opened-locker",
+        "cell": "6x0",
+        "visible": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 16,
+      "y": 0,
+      "referenceId": 284,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "type": "opened-locker",
+        "cell": "16x0",
+        "visible": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "referenceId": 539,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true,
+        "dynamicZIndexMode": "bottom"
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "referenceId": 539,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true,
+        "dynamicZIndexMode": "bottom"
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 19,
+      "y": 2,
+      "referenceId": 539,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": false,
+        "zIndex": 3
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 20,
+      "y": 2,
+      "referenceId": 539,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": false,
+        "zIndex": 3
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 20,
+      "y": 11,
+      "referenceId": 539,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true,
+        "dynamicZIndexMode": "bottom"
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 11,
+      "y": 9,
+      "referenceId": 539,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true,
+        "dynamicZIndexMode": "bottom"
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 7,
+      "y": 9,
+      "referenceId": 539,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true,
+        "dynamicZIndexMode": "bottom"
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "referenceId": 539,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true,
+        "dynamicZIndexMode": "bottom"
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "referenceId": 539,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true,
+        "dynamicZIndexMode": "bottom"
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 19,
+      "y": 2,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 20,
+      "y": 2,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 7,
+      "y": 9,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 11,
+      "y": 9,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 20,
+      "y": 11,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 15,
+      "y": 3,
+      "referenceId": 539,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true,
+        "dynamicZIndexMode": "bottom"
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 15,
+      "y": 3,
+      "referenceId": 191,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "referenceId": 540,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "zIndex": 100000
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "referenceId": 175,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "referenceId": 543,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "zIndex": 100000
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "referenceId": 176,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "type": "closed-door",
+        "cell": "7x1",
+        "visible": true
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "referenceId": 250,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "type": "opened-door",
+        "cell": "7x1",
+        "visible": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "referenceId": 544,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "zIndex": 100000,
+        "type": "above-door",
+        "visible": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 17,
+      "y": 1,
+      "referenceId": 176,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "type": "closed-door",
+        "cell": "17x1",
+        "visible": true
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 17,
+      "y": 1,
+      "referenceId": 250,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "type": "opened-door",
+        "cell": "17x1",
+        "visible": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 17,
+      "y": 1,
+      "referenceId": 544,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "zIndex": 100000,
+        "type": "above-door",
+        "visible": false
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 16,
+      "y": 1,
+      "referenceId": 543,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "zIndex": 1000000
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "referenceId": 545,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true,
+        "dynamicZIndexMode": "bottom"
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "referenceId": 546,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true,
+        "dynamicZIndexMode": "bottom"
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "referenceId": 539,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true,
+        "dynamicZIndexMode": "bottom"
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "referenceId": 547,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": false,
+        "zIndex": 3
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "referenceId": 551,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "referenceId": 551,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 17,
+      "y": 3,
+      "referenceId": 551,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 18,
+      "y": 3,
+      "referenceId": 551,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "referenceId": 552,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "referenceId": 552,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "referenceId": 552,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 14,
+      "y": 5,
+      "referenceId": 552,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "referenceId": 553,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "referenceId": 554,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "referenceId": 551,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 19,
+      "y": 3,
+      "referenceId": 553,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 20,
+      "y": 3,
+      "referenceId": 553,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "referenceId": 555,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": false,
+        "zIndex": 3
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "referenceId": 556,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 16,
+      "y": 3,
+      "referenceId": 557,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "referenceId": 558,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "referenceId": 559,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "referenceId": 560,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "referenceId": 560,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "referenceId": 560,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 11,
+      "y": 8,
+      "referenceId": 560,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 9,
+      "y": 8,
+      "referenceId": 560,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "referenceId": 560,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 14,
+      "y": 3,
+      "referenceId": 561,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 14,
+      "y": 4,
+      "referenceId": 562,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "referenceId": 562,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "referenceId": 563,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 8,
+      "y": 8,
+      "referenceId": 564,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "referenceId": 564,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 10,
+      "y": 8,
+      "referenceId": 567,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "referenceId": 565,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 1
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "referenceId": 566,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "referenceId": 568,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "referenceId": 569,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true
+      },
+      "zIndex": 0
+    },
+    {
+      "x": 18,
+      "y": 1,
+      "referenceId": 549,
+      "flipHorizontal": false,
+      "flipVertical": false,
+      "stretch": false,
+      "properties": {
+        "canAction": true,
+        "dynamicZIndex": true,
+        "dynamicZIndexMode": "bottom"
+      },
+      "zIndex": 0
+    }
+  ],
+  "mapInfo": {
+    "width": 22,
+    "height": 13
+  },
+  "name": "Level 1",
+  "tileInfo": {
+    "width": 64,
+    "height": 64
+  }
+}

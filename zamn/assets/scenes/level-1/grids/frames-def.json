@@ -1,0 +1,1033 @@
+[
+  {
+    "textureName": "frames-pack.png",
+    "frames": [
+      {
+        "frameId": 162,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 163,
+        "rect": {
+          "x": 64,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 164,
+        "rect": {
+          "x": 128,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 165,
+        "rect": {
+          "x": 192,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 166,
+        "rect": {
+          "x": 256,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 167,
+        "rect": {
+          "x": 320,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 168,
+        "rect": {
+          "x": 384,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 169,
+        "rect": {
+          "x": 448,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 170,
+        "rect": {
+          "x": 512,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 171,
+        "rect": {
+          "x": 576,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 172,
+        "rect": {
+          "x": 640,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 173,
+        "rect": {
+          "x": 704,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 174,
+        "rect": {
+          "x": 768,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 175,
+        "rect": {
+          "x": 832,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 176,
+        "rect": {
+          "x": 896,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 177,
+        "rect": {
+          "x": 960,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 178,
+        "rect": {
+          "x": 1024,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 179,
+        "rect": {
+          "x": 1088,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 180,
+        "rect": {
+          "x": 1152,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 181,
+        "rect": {
+          "x": 1216,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 182,
+        "rect": {
+          "x": 1280,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 183,
+        "rect": {
+          "x": 1344,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 184,
+        "rect": {
+          "x": 1408,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 185,
+        "rect": {
+          "x": 1472,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 186,
+        "rect": {
+          "x": 1536,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 187,
+        "rect": {
+          "x": 1600,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 188,
+        "rect": {
+          "x": 1664,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 189,
+        "rect": {
+          "x": 1728,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 190,
+        "rect": {
+          "x": 1792,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 191,
+        "rect": {
+          "x": 1856,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 192,
+        "rect": {
+          "x": 1920,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 193,
+        "rect": {
+          "x": 1984,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 194,
+        "rect": {
+          "x": 2048,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 195,
+        "rect": {
+          "x": 2112,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 196,
+        "rect": {
+          "x": 2176,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 197,
+        "rect": {
+          "x": 2240,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 198,
+        "rect": {
+          "x": 2304,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 199,
+        "rect": {
+          "x": 2368,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 200,
+        "rect": {
+          "x": 2432,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 201,
+        "rect": {
+          "x": 2496,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 202,
+        "rect": {
+          "x": 2560,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 203,
+        "rect": {
+          "x": 2624,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 204,
+        "rect": {
+          "x": 2688,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 205,
+        "rect": {
+          "x": 2752,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 206,
+        "rect": {
+          "x": 2816,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 207,
+        "rect": {
+          "x": 2880,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 208,
+        "rect": {
+          "x": 2944,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 209,
+        "rect": {
+          "x": 3008,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 210,
+        "rect": {
+          "x": 3072,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 211,
+        "rect": {
+          "x": 3136,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 212,
+        "rect": {
+          "x": 3200,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 213,
+        "rect": {
+          "x": 3264,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 214,
+        "rect": {
+          "x": 3328,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 215,
+        "rect": {
+          "x": 3392,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 216,
+        "rect": {
+          "x": 3456,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 217,
+        "rect": {
+          "x": 3520,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 218,
+        "rect": {
+          "x": 3584,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 219,
+        "rect": {
+          "x": 3648,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 220,
+        "rect": {
+          "x": 3712,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 221,
+        "rect": {
+          "x": 3776,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 222,
+        "rect": {
+          "x": 3840,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 223,
+        "rect": {
+          "x": 3904,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 224,
+        "rect": {
+          "x": 3968,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 225,
+        "rect": {
+          "x": 4032,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 226,
+        "rect": {
+          "x": 4096,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 227,
+        "rect": {
+          "x": 4160,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 228,
+        "rect": {
+          "x": 4224,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 229,
+        "rect": {
+          "x": 4288,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 230,
+        "rect": {
+          "x": 4352,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 231,
+        "rect": {
+          "x": 4416,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 232,
+        "rect": {
+          "x": 4480,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 233,
+        "rect": {
+          "x": 4544,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 234,
+        "rect": {
+          "x": 4608,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 235,
+        "rect": {
+          "x": 4672,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 236,
+        "rect": {
+          "x": 4736,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 237,
+        "rect": {
+          "x": 4800,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 238,
+        "rect": {
+          "x": 4864,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 239,
+        "rect": {
+          "x": 4928,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 240,
+        "rect": {
+          "x": 4992,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 241,
+        "rect": {
+          "x": 5056,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 242,
+        "rect": {
+          "x": 5120,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 243,
+        "rect": {
+          "x": 5184,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 244,
+        "rect": {
+          "x": 5248,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 250,
+        "rect": {
+          "x": 5312,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 256,
+        "rect": {
+          "x": 5376,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 274,
+        "rect": {
+          "x": 5440,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 284,
+        "rect": {
+          "x": 5504,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 539,
+        "rect": {
+          "x": 5568,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 540,
+        "rect": {
+          "x": 5632,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 543,
+        "rect": {
+          "x": 5696,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 544,
+        "rect": {
+          "x": 5760,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 545,
+        "rect": {
+          "x": 5824,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 546,
+        "rect": {
+          "x": 5888,
+          "y": 0,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 547,
+        "rect": {
+          "x": 0,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 549,
+        "rect": {
+          "x": 64,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 551,
+        "rect": {
+          "x": 128,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 552,
+        "rect": {
+          "x": 192,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 553,
+        "rect": {
+          "x": 256,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 554,
+        "rect": {
+          "x": 320,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 555,
+        "rect": {
+          "x": 384,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 556,
+        "rect": {
+          "x": 448,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 557,
+        "rect": {
+          "x": 512,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 558,
+        "rect": {
+          "x": 576,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 559,
+        "rect": {
+          "x": 640,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 560,
+        "rect": {
+          "x": 704,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 561,
+        "rect": {
+          "x": 768,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 562,
+        "rect": {
+          "x": 832,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 563,
+        "rect": {
+          "x": 896,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 564,
+        "rect": {
+          "x": 960,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 565,
+        "rect": {
+          "x": 1024,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 566,
+        "rect": {
+          "x": 1088,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 567,
+        "rect": {
+          "x": 1152,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 568,
+        "rect": {
+          "x": 1216,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "frameId": 569,
+        "rect": {
+          "x": 1280,
+          "y": 64,
+          "width": 64,
+          "height": 64
+        }
+      }
+    ]
+  }
+]

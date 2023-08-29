@@ -1,0 +1,61 @@
+[
+  {
+    "textureName": "texture.png",
+    "frames": [
+      {
+        "frameId": 623,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 16,
+          "height": 3
+        }
+      },
+      {
+        "frameId": 627,
+        "rect": {
+          "x": 16,
+          "y": 0,
+          "width": 16,
+          "height": 3
+        }
+      },
+      {
+        "frameId": 625,
+        "rect": {
+          "x": 0,
+          "y": 3,
+          "width": 5,
+          "height": 14
+        }
+      },
+      {
+        "frameId": 620,
+        "rect": {
+          "x": 5,
+          "y": 3,
+          "width": 5,
+          "height": 14
+        }
+      },
+      {
+        "frameId": 621,
+        "rect": {
+          "x": 10,
+          "y": 3,
+          "width": 13,
+          "height": 11
+        }
+      },
+      {
+        "frameId": 622,
+        "rect": {
+          "x": 0,
+          "y": 17,
+          "width": 14,
+          "height": 14
+        }
+      }
+    ]
+  }
+]
