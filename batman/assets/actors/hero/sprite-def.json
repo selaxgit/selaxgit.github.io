@@ -1,0 +1,679 @@
+{
+  "id": 39,
+  "name": "Batman",
+  "width": 103,
+  "height": 73,
+  "groundPoint": {
+    "x": 53,
+    "y": 66
+  },
+  "animations": [
+    {
+      "id": 62,
+      "name": "on-stay-right",
+      "default": true,
+      "groundPoint": null,
+      "collisionFrame": {
+        "x": 44,
+        "y": 16,
+        "width": 23,
+        "height": 51
+      },
+      "layers": [
+        {
+          "layerId": 90,
+          "loop": false,
+          "speed": 0.08
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "on-wait-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 91,
+          "loop": false,
+          "speed": 0.08
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "to-run-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 92,
+          "loop": false,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "run-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 93,
+          "loop": true,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "to-stop-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 94,
+          "loop": false,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "to-seat-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 102,
+          "loop": false,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "seat-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 104,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "from-seat-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 103,
+          "loop": false,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "hit-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 100,
+          "loop": false,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "hit-seat-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 108,
+          "loop": false,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "hit-jump-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 116,
+          "loop": false,
+          "speed": 0.2
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "to-jump-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 111,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "jump-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 110,
+          "loop": false,
+          "speed": 0.07
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "jump-running-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 118,
+          "loop": false,
+          "speed": 0.04
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "from-jump-right",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 112,
+          "loop": false,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "on-stay-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 95,
+          "loop": false,
+          "speed": 0.08
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "on-wait-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 96,
+          "loop": false,
+          "speed": 0.08
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "to-run-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 97,
+          "loop": false,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "run-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 98,
+          "loop": true,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "to-stop-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 99,
+          "loop": false,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "to-seat-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 105,
+          "loop": false,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "seat-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 106,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "from-seat-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 107,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "hit-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 101,
+          "loop": false,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "hit-seat-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 109,
+          "loop": false,
+          "speed": 0.15
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "name": "hit-jump-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 117,
+          "loop": false,
+          "speed": 0.2
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "to-jump-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 113,
+          "loop": false,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "jump-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 114,
+          "loop": false,
+          "speed": 0.07
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "jump-running-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 119,
+          "loop": false,
+          "speed": 0.04
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "from-jump-left",
+      "default": false,
+      "groundPoint": null,
+      "collisionFrame": null,
+      "layers": [
+        {
+          "layerId": 115,
+          "loop": false,
+          "speed": 0.15
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "id": 90,
+      "name": "on-stay-right",
+      "x": 30,
+      "y": 4,
+      "zIndex": 0,
+      "frames": [1, 1, 1, 2, 3, 4, 5]
+    },
+    {
+      "id": 91,
+      "name": "on-wait-right",
+      "x": 34,
+      "y": 4,
+      "zIndex": 0,
+      "frames": [6, 7, 8, 9, 10]
+    },
+    {
+      "id": 92,
+      "name": "to-run-right",
+      "x": 6,
+      "y": 6,
+      "zIndex": 0,
+      "frames": [11, 12, 13, 14, 15]
+    },
+    {
+      "id": 93,
+      "name": "run-right",
+      "x": 5,
+      "y": 3,
+      "zIndex": 0,
+      "frames": [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+    },
+    {
+      "id": 94,
+      "name": "to-stop-right",
+      "x": 11,
+      "y": 0,
+      "zIndex": 0,
+      "frames": [29, 30, 31, 32]
+    },
+    {
+      "id": 102,
+      "name": "to-seat-right",
+      "x": 15,
+      "y": 15,
+      "zIndex": 0,
+      "frames": [33, 34, 35, 36, 37, 38, 39, 40]
+    },
+    {
+      "id": 104,
+      "name": "seat-right",
+      "x": 15,
+      "y": 39,
+      "zIndex": 0,
+      "frames": [40]
+    },
+    {
+      "id": 103,
+      "name": "from-seat-right",
+      "x": 17,
+      "y": 8,
+      "zIndex": 0,
+      "frames": [41, 42, 43]
+    },
+    {
+      "id": 100,
+      "name": "hit-right",
+      "x": 31,
+      "y": 10,
+      "zIndex": 0,
+      "frames": [44, 45, 46, 47, 46, 45, 44]
+    },
+    {
+      "id": 108,
+      "name": "hit-seat-right",
+      "x": 14,
+      "y": 20,
+      "zIndex": 0,
+      "frames": [48, 49, 50, 51, 52]
+    },
+    {
+      "id": 116,
+      "name": "hit-jump-right",
+      "x": 17,
+      "y": 4,
+      "zIndex": 0,
+      "frames": [53, 54, 55, 56, 57, 58]
+    },
+    {
+      "id": 111,
+      "name": "to-jump-right",
+      "x": 31,
+      "y": 20,
+      "zIndex": 0,
+      "frames": [59]
+    },
+    {
+      "id": 110,
+      "name": "jump-right",
+      "x": 24,
+      "y": 2,
+      "zIndex": 0,
+      "frames": [60, 61, 58]
+    },
+    {
+      "id": 118,
+      "name": "jump-running-right",
+      "x": 10,
+      "y": 7,
+      "zIndex": 0,
+      "frames": [62, 63]
+    },
+    {
+      "id": 112,
+      "name": "from-jump-right",
+      "x": 14,
+      "y": 9,
+      "zIndex": 0,
+      "frames": [64, 65, 66]
+    },
+    {
+      "id": 95,
+      "name": "on-stay-left",
+      "x": 31,
+      "y": 4,
+      "zIndex": 0,
+      "frames": [67, 68, 69, 70, 71]
+    },
+    {
+      "id": 96,
+      "name": "on-wait-left",
+      "x": 36,
+      "y": 3,
+      "zIndex": 0,
+      "frames": [72, 73, 74, 75, 76]
+    },
+    {
+      "id": 97,
+      "name": "to-run-left",
+      "x": 9,
+      "y": 7,
+      "zIndex": 0,
+      "frames": [77, 78, 79, 80, 81]
+    },
+    {
+      "id": 98,
+      "name": "run-left",
+      "x": 32,
+      "y": 3,
+      "zIndex": 0,
+      "frames": [81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94]
+    },
+    {
+      "id": 99,
+      "name": "to-stop-left",
+      "x": 21,
+      "y": 5,
+      "zIndex": 0,
+      "frames": [95, 96, 97, 98]
+    },
+    {
+      "id": 105,
+      "name": "to-seat-left",
+      "x": 22,
+      "y": 16,
+      "zIndex": 0,
+      "frames": [99, 100, 101, 102, 103, 104, 105, 106]
+    },
+    {
+      "id": 106,
+      "name": "seat-left",
+      "x": 28,
+      "y": 40,
+      "zIndex": 0,
+      "frames": [106]
+    },
+    {
+      "id": 107,
+      "name": "from-seat-left",
+      "x": 28,
+      "y": 10,
+      "zIndex": 0,
+      "frames": [107, 108, 109]
+    },
+    {
+      "id": 101,
+      "name": "hit-left",
+      "x": 17,
+      "y": 11,
+      "zIndex": 0,
+      "frames": [110, 111, 112, 113, 112, 111, 110]
+    },
+    {
+      "id": 109,
+      "name": "hit-seat-left",
+      "x": 0,
+      "y": 20,
+      "zIndex": 0,
+      "frames": [114, 115, 116, 117, 118]
+    },
+    {
+      "id": 117,
+      "name": "hit-jump-left",
+      "x": 3,
+      "y": 0,
+      "zIndex": 0,
+      "frames": [119, 120, 121, 122, 123, 124]
+    },
+    {
+      "id": 113,
+      "name": "to-jump-left",
+      "x": 33,
+      "y": 19,
+      "zIndex": 0,
+      "frames": [125]
+    },
+    {
+      "id": 114,
+      "name": "jump-left",
+      "x": 31,
+      "y": 2,
+      "zIndex": 0,
+      "frames": [126, 127, 124]
+    },
+    {
+      "id": 119,
+      "name": "jump-running-left",
+      "x": 22,
+      "y": 8,
+      "zIndex": 0,
+      "frames": [128, 129]
+    },
+    {
+      "id": 115,
+      "name": "from-jump-left",
+      "x": 25,
+      "y": 8,
+      "zIndex": 0,
+      "frames": [130, 131, 132]
+    }
+  ]
+}
