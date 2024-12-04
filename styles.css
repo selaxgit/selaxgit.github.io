@@ -27,8 +27,12 @@ a:hover {
   text-align: center;
 }
 
+.flex-auto {
+  flex: auto;
+}
+
 .list {
-  display: flex; 
+  display: flex;
   flex-direction: column;
 }
 
@@ -43,6 +47,11 @@ a:hover {
 
 .list__item:first-child {
   margin-top: 0;
+}
+
+.list__item__title {
+  display: flex;
+  align-items: center;
 }
 
 .list__item__desc {
@@ -63,7 +72,7 @@ a:hover {
 }
 
 .list__item__footer .list__item__footer--updated {
-  flex: auto
+  flex: auto;
 }
 
 .list__item__footer .list__item__footer--tools {
